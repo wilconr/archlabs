@@ -1,0 +1,24 @@
+[/]
+quake-specific-monitor=0
+terminal-title-style='none'
+warn-vte-config-issue=false
+window-style='borderless'
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#263238'
+background-transparency-percent=9
+badge-color-set=false
+bold-color-set=false
+bold-is-bright=true
+cursor-colors-set=false
+custom-command='tmux'
+dim-transparency-percent=0
+font='UbuntuMono Nerd Font Mono Bold 14'
+foreground-color='#A1B0B8'
+highlight-colors-set=false
+login-shell=false
+palette=['#252525', '#FF5252', '#C3D82C', '#FFC135', '#42A5F5', '#D81B60', '#00ACC1', '#F5F5F5', '#708284', '#FF5252', '#C3D82C', '#FFC135', '#42A5F5', '#D81B60', '#00ACC1', '#F5F5F5']
+use-custom-command=true
+use-system-font=false
+use-theme-colors=false
+visible-name='Default'
