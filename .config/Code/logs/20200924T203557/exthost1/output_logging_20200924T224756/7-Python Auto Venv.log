@@ -1,0 +1,4 @@
+[INFO] Python Auto Venv activated!
+[INFO] Executing command: pipenv --venv
+[INFO] Changed the virtual environment python path: /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python
+[INFO] Python Auto Venv deactivated!

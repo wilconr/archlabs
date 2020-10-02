@@ -1,0 +1,27 @@
+/* CSS File for What is my IP address extension*/
+
+/* global */
+/*
+html, body, form, fieldset, p, div, h1, h2, a, span{-webkit-text-size-adjust:none}   
+*/
+body{font-size:63%;font-family:sans-serif;background-color:#FAFAFA;color:#333;margin:0px;padding:0px;zoom:1.0}
+.icon_16{width:16px;height:16px;vertical-align:middle;border:0px;}
+.icon_32{width:32px;height:32px;vertical-align:middle;border:0px;}
+.icon_48{width:48px;height:48px;vertical-align:middle;border:0px;}
+.icon_50{width:50px;height:50px;vertical-align:middle;border:0px;}
+.icon_60{width:60px;height:60px;vertical-align:middle;border:0px;}
+.icon_flag{width:16px;height:11px;vertical-align:middle;border:0px;}
+
+h1{ font-size:1.6em;color:#272727}
+hr{height: 0px;border:solid #999 0px;border-top-width:1px}
+a{color:#069;text-decoration: none; }
+
+/* Content */
+#whole{width:305px;margin:8px}
+#mainpanel {width: 294px;height:195px;margin: 6px auto;border: 1px solid #C5C5C5;overflow: hidden;background: #ffffff;border-spacing: 0;}
+
+/* Loading */
+.framepage{width:292px;height:195px;margin:0px;padding:0px;border:0px;}}
+#cf_map{}
+
+#siteinfo_detail{padding:10px 0px 0px 0px;line-height:18px;font-size:1.2em}

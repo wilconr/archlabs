@@ -1,0 +1,32 @@
+[2020-09-23 10:06:51.720] [sharedprocess] [info] main {"machineId":"ab16893c4f4f178ea158d6fa548a73ae15b61886026454bfd1d0295f4c484e70","windowId":2}
+[2020-09-23 10:07:24.849] [sharedprocess] [info] Installing extension: mads-hartmann.bash-ide-vscode
+[2020-09-23 10:07:24.852] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-09-23 10:07:24.853] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-09-23 10:07:24.858] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-09-23 10:07:24.859] [sharedprocess] [info] Installing extension: whinarn.python-auto-venv
+[2020-09-23 10:07:27.591] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/wilmer/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.3.0
+[2020-09-23 10:07:31.942] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-23 10:07:39.056] [sharedprocess] [info] Downloaded extension: whinarn.python-auto-venv /home/wilmer/.config/Code/CachedExtensionVSIXs/whinarn.python-auto-venv-1.1.1
+[2020-09-23 10:07:39.558] [sharedprocess] [info] Extracted extension to /home/wilmer/.vscode/extensions/.whinarn.python-auto-venv-1.1.1: whinarn.python-auto-venv
+[2020-09-23 10:07:39.560] [sharedprocess] [info] Renamed to /home/wilmer/.vscode/extensions/whinarn.python-auto-venv-1.1.1
+[2020-09-23 10:07:39.568] [sharedprocess] [info] Installation completed. whinarn.python-auto-venv
+[2020-09-23 10:07:39.788] [sharedprocess] [info] Extensions installed successfully: whinarn.python-auto-venv
+[2020-09-23 10:07:45.638] [sharedprocess] [info] Downloaded extension: mads-hartmann.bash-ide-vscode /home/wilmer/.config/Code/CachedExtensionVSIXs/mads-hartmann.bash-ide-vscode-1.11.0
+[2020-09-23 10:07:47.933] [sharedprocess] [info] Extracted extension to /home/wilmer/.vscode/extensions/.pkief.material-icon-theme-4.3.0: pkief.material-icon-theme
+[2020-09-23 10:07:47.943] [sharedprocess] [info] Renamed to /home/wilmer/.vscode/extensions/pkief.material-icon-theme-4.3.0
+[2020-09-23 10:07:47.974] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-09-23 10:07:48.089] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-09-23 10:07:51.567] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/wilmer/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-09-23 10:07:56.149] [sharedprocess] [info] Extracted extension to /home/wilmer/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.10: visualstudioexptteam.vscodeintellicode
+[2020-09-23 10:07:56.150] [sharedprocess] [info] Renamed to /home/wilmer/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-09-23 10:07:56.156] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-09-23 10:07:56.389] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-09-23 10:08:06.311] [sharedprocess] [info] Extracted extension to /home/wilmer/.vscode/extensions/.mads-hartmann.bash-ide-vscode-1.11.0: mads-hartmann.bash-ide-vscode
+[2020-09-23 10:08:06.312] [sharedprocess] [info] Renamed to /home/wilmer/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.11.0
+[2020-09-23 10:08:06.315] [sharedprocess] [info] Installation completed. mads-hartmann.bash-ide-vscode
+[2020-09-23 10:08:06.400] [sharedprocess] [info] Extensions installed successfully: mads-hartmann.bash-ide-vscode
+[2020-09-23 10:08:11.315] [sharedprocess] [info] Downloaded extension: ms-python.python /home/wilmer/.config/Code/CachedExtensionVSIXs/ms-python.python-2020.8.109390
+[2020-09-23 10:08:32.864] [sharedprocess] [info] Extracted extension to /home/wilmer/.vscode/extensions/.ms-python.python-2020.8.109390: ms-python.python
+[2020-09-23 10:08:32.867] [sharedprocess] [info] Renamed to /home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390
+[2020-09-23 10:08:32.925] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-09-23 10:08:33.130] [sharedprocess] [info] Extensions installed successfully: ms-python.python

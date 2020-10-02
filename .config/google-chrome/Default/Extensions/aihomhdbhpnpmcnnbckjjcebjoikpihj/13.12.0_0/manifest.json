@@ -1,0 +1,44 @@
+{
+   "author": "Sainan.de",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icon/128.png",
+         "150": "icon/150.png",
+         "176": "icon/176.png",
+         "48": "icon/48.png",
+         "512": "icon/512.png"
+      },
+      "default_popup": "html/popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content_script.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.9f4026f62e168a6141c8ad820d593468a97403d182d8c0b9994cda84af5d8c66",
+   "homepage_url": "https://universal-bypass.org/",
+   "icons": {
+      "128": "icon/128.png",
+      "150": "icon/150.png",
+      "176": "icon/176.png",
+      "48": "icon/48.png",
+      "512": "icon/512.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqckiRI0iUPEaOml2CJTgksMA72WYfVycN2wqTCCJu5azixZ8vL5hGz6h11pOIkdZyhuVXubNLTXxAOlfrsrxp15y/CQ3Us5r2e6ueW9PqyJx37whS2Cp/BjiFicj9Hjan7nGkDBu5Sa1mBKI3xSZhDTHTwEu/1gCuKCck8E7lcXODtbDRHDLrd+IuwMnD16DuW8VSGUht4F/R5zJT1uI+ocY7vf3B4gzP8AoXaTEyKAAubCoTaae0dxJl/glbpxUAM4t+ojneCPYqMaEmg1gtLYtyaz1sRHMAp3t9Jsf+QiVRQDm+ynmHHVBsO53UAJRKH1xKwrXhqg6XVbK0vBlDQIDAQAB",
+   "manifest_version": 2,
+   "name": "Universal Bypass",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "html/options.html"
+   },
+   "permissions": [ "alarms", "storage", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "13.12.0",
+   "web_accessible_resources": [ "html/before-navigate.html", "html/blocked.html", "html/crowd-bypassed.html", "html/firstrun.html", "html/firstrun-noscript.html", "html/options.html", "icon/48.png" ]
+}

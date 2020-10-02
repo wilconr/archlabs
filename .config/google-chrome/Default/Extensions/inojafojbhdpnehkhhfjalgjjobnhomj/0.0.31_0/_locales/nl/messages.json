@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "Toevoegen aan uitzonderingenlijst"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Tijdelijke wegwerpadres. Bescherm uw e-mail van spam, bots en phishing met TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Disposable tijdelijk e-mailadres"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Amend."
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "CONTROLEER MAIL"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Kopie"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Formulieren automatisch invullen knop"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Postvak IN"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "ongelezen berichten"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "U hebt nieuwe e-mail"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "Nee, dank u wel"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Plak tijdelijk e-mailadres"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "QR code"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Beoordeel ons"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "Als u van onze app houdt, neem dan even de tijd om deze in de webwinkel te beoordelen."
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "Verwijderen uit uitzonderingenlijst"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Deel ons"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Dank je"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Wacht even"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Uw tijdelijk e-mailadres"
+   }
+}

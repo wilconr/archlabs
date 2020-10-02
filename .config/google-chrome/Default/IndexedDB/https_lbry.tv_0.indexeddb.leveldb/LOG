@@ -1,0 +1,5 @@
+2020/07/05-11:18:45.958 17b3 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/05-12:27:21.387 461 Level-0 table #5: started
+2020/07/05-12:27:21.421 461 Level-0 table #5: 21321 bytes OK
+2020/07/05-12:27:21.451 461 Delete type=0 #3
+2020/07/05-12:27:21.452 461 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

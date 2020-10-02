@@ -1,0 +1,5 @@
+2020/06/30-13:39:26.531 a24 Reusing MANIFEST /home/wilmer/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/30-13:51:12.742 450 Level-0 table #5: started
+2020/06/30-13:51:12.782 450 Level-0 table #5: 2089 bytes OK
+2020/06/30-13:51:12.818 450 Delete type=0 #3
+2020/06/30-13:51:12.819 450 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

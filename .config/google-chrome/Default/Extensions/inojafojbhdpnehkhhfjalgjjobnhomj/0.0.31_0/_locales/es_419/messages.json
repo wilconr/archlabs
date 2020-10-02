@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "Agregar a la lista de excepciones"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Dirección de correo electrónico desechable temporal. Proteja su correo electrónico contra spam, bots y phishing con TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Desechable Email Temporal Gratis"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Cambiar"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "REVISAR CORREO"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Copiar"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Botón de autocompletar formularios"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Bandeja de entrada"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "Mensajes no leídos"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "Tienes correo nuevo"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "No, Thanks"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Pegar correo electrónico temporal"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "Código QR"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Nos califica"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "Si amas nuestra aplicación, tómate un momento para calificarla en la tienda web.  "
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "Eliminar de la lista de excepciones"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Compartir"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Gracias"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Espera un momento"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Su dirección de correo temporal"
+   }
+}

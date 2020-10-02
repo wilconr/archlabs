@@ -1,0 +1,15 @@
+2020/04/25-18:21:32.709 8746c Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/25-18:21:32.709 8746c Recovering log #12
+2020/04/25-18:21:32.710 8746c Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000012.log 
+2020/04/25-19:33:56.614 690 Level-0 table #17: started
+2020/04/25-19:33:56.706 690 Level-0 table #17: 684861 bytes OK
+2020/04/25-19:33:56.747 690 Delete type=0 #12
+2020/04/25-19:33:56.748 690 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/25-19:33:56.749 690 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x04\x00w\x00a\x00w\x00c' @ 165595 : 1
+2020/04/25-19:33:56.749 690 Compacting 1@1 + 1@2 files
+2020/04/25-19:33:56.873 690 Generated table #18@1: 23087 keys, 1172610 bytes
+2020/04/25-19:33:56.873 690 Compacted 1@1 + 1@2 files => 1172610 bytes
+2020/04/25-19:33:56.910 690 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/25-19:33:56.911 690 Delete type=2 #14
+2020/04/25-19:33:56.911 690 Delete type=2 #17
+2020/04/25-19:33:56.912 690 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x04\x00w\x00a\x00w\x00c' @ 165595 : 1 .. (end); will stop at (end)

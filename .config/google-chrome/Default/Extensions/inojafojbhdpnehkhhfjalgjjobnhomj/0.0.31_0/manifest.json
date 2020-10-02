@@ -1,0 +1,34 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "chrome_background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/128x128.png",
+      "default_popup": "",
+      "default_title": "TempMail"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content_script.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.7850913ce62bd48912a1e371a83dad49a6e0b79b535680207acb1e6c58590b5f",
+   "icons": {
+      "128": "img/128x128.png",
+      "16": "img/16x16.png",
+      "48": "img/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy4TWcKNlPq9YPVsO6QZIfLtGijk/dxknlg6tEM2ixROCIuqJaPuyCN34z6AKLnuH3bW+rOOC3ZhAuSzX7AlDJQPgzM4uY6GwepkDuwsgubIZQl7xHMijucua5F5LPuCAr2WiltQIozrmfLKkwC7aVcliO45T1JcpNYYBNYpunV8N6GNHRjtFG8hMvjOkrpnBvSNolI5DJF2nvDK8EjyWgNCVslOoznLHf7ZXMIoA1zKGjwvhbreGcVW4apCFdgfabLOT2F5eeMWKgq6pg3xYqd9sP/gX43gLO0PR9p8UBqRBYQGq1q61kJYRg9CMCUldHrrM2KmQ83ZfjeQ4DIQ9swIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "storage", "notifications", "tabs", "contextMenus" ],
+   "short_name": "TempMail",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.31",
+   "web_accessible_resources": [  ]
+}

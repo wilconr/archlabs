@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "Добавить в список исключений"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Одноразовый временный почтовый ящик. Защита вашего Email от спама, ботов и фишинг от TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Временная одноразовая почта"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Сменить"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "Проверить почту"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Копия"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Кнопка автозаполнения форм"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Входящие"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "сообщение"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "У вас новая почта"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "Нет,спасибо"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Вставить адрес временной почты"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "QR код"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Оцените нас"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "Если вам нравится наше приложение, пожалуйста, оцените его в интернет-магазине."
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "Удалить из списка исключений"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Поделитесь"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Спасибо"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Подождите секунду"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Ваш временный Email"
+   }
+}

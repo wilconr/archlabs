@@ -1,0 +1,24 @@
+2020/10/01-09:54:01.245 6ca Recovering log #2750
+2020/10/01-09:54:01.258 6ca Level-0 table #2752: started
+2020/10/01-09:54:01.294 6ca Level-0 table #2752: 202 bytes OK
+2020/10/01-09:54:01.387 6ca Delete type=0 #2750
+2020/10/01-09:54:01.387 6ca Delete type=3 #2748
+2020/10/01-09:55:25.245 9eb Level-0 table #2755: started
+2020/10/01-09:55:25.297 9eb Level-0 table #2755: 7941 bytes OK
+2020/10/01-09:55:25.335 9eb Delete type=0 #2753
+2020/10/01-09:55:25.336 9eb Expanding@0 3+1 (16701+1652 bytes) to 4+1 (24642+1652 bytes)
+2020/10/01-09:55:25.336 9eb Compacting 4@0 + 1@1 files
+2020/10/01-09:55:25.420 9eb Generated table #2756@0: 10 keys, 819 bytes
+2020/10/01-09:55:25.420 9eb Compacted 4@0 + 1@1 files => 819 bytes
+2020/10/01-09:55:25.450 9eb compacted to: files[ 0 1 3 0 0 0 0 ]
+2020/10/01-09:55:25.455 9eb Delete type=2 #2755
+2020/10/01-09:55:25.456 9eb Delete type=2 #2752
+2020/10/01-09:55:25.456 9eb Delete type=2 #2747
+2020/10/01-09:55:25.456 9eb Delete type=2 #2749
+2020/10/01-09:55:25.456 9eb Delete type=2 #2745
+2020/10/01-09:56:33.315 9eb Level-0 table #2758: started
+2020/10/01-09:56:33.388 9eb Level-0 table #2758: 7943 bytes OK
+2020/10/01-09:56:33.430 9eb Delete type=0 #2754
+2020/10/01-09:57:41.052 9eb Level-0 table #2760: started
+2020/10/01-09:57:41.120 9eb Level-0 table #2760: 7905 bytes OK
+2020/10/01-09:57:41.154 9eb Delete type=0 #2757

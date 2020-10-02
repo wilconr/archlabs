@@ -1,0 +1,78 @@
+Downloading https://pvsc.azureedge.net/python-language-server-stable/Python-Language-Server-linux-x64.0.5.51.nupkg...
+Language server download complete
+Unpacking archive... done
+[Info  - 8:38:43 PM] Analysis cache path: /home/wilmer/.cache/Microsoft/Python Language Server
+[Info  - 8:38:43 PM] Microsoft Python Language Server version 0.5.51.0
+[Info  - 8:38:43 PM] Workspace root: /home/wilmer/PythonProjects
+[Info  - 8:38:43 PM] GetCurrentSearchPaths /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python 
+[Info  - 8:38:44 PM] Interpreter search paths:
+[Info  - 8:38:44 PM]     /usr/lib/python3.8
+[Info  - 8:38:44 PM]     /usr/lib/python3.8/lib-dynload
+[Info  - 8:38:44 PM]     /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/lib/python3.8/site-packages
+[Info  - 8:38:44 PM] User search paths:
+2020-09-24 20:38:51.425003253 [W:onnxruntime:, graph.cc:814 Graph] Initializer embeddings_matrix:0_quantized appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+2020-09-24 20:38:51.425635184 [W:onnxruntime:, graph.cc:814 Graph] Initializer embeddings_matrix:0_scale appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+2020-09-24 20:38:51.426072298 [W:onnxruntime:, graph.cc:814 Graph] Initializer embeddings_matrix:0_zero_point appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+2020-09-24 20:38:51.426267139 [W:onnxruntime:, graph.cc:814 Graph] Initializer fixed_quantization_range_uint8 appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+2020-09-24 20:38:51.426432713 [W:onnxruntime:, graph.cc:814 Graph] Initializer fixed_zero appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+[Info  - 8:38:56 PM] Initializing for /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python
+[Info  - 8:38:56 PM] Analysis caching mode: None.
+[Info  - 8:46:41 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:46:41 PM] Deep learning IntelliCode recommendations service returned in 33 millis
+[Info  - 8:46:46 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:46:46 PM] Deep learning IntelliCode recommendations service returned in 3 millis
+[Info  - 8:46:55 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:46:55 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 8:46:59 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:46:59 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 8:54:42 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:54:42 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 8:54:44 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:54:44 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 8:54:45 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:54:45 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 8:54:51 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:54:51 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 8:54:55 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:54:55 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 8:54:56 PM] Predictions: argv, stdin, exit, path, version, flags, executable, modules, stdout, platform, exc_info, exc_type, getswitchinterval, exitfunc, stderr, copyright, prefix, call_tracing, version_info, getfilesystemencoding
+[Info  - 8:54:56 PM] Time taken to get predictions: 79 ms, Memory increased: 1622016 bytes
+[Info  - 8:54:56 PM] Deep learning IntelliCode recommendations service returned in 96 millis
+[Info  - 8:55:45 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:55:45 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 8:56:53 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:56:53 PM] Deep learning IntelliCode recommendations service returned in 2 millis
+[Info  - 8:57:01 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 8:57:01 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:33:03 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:33:03 PM] Deep learning IntelliCode recommendations service returned in 108 millis
+[Info  - 10:33:27 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:33:27 PM] Deep learning IntelliCode recommendations service returned in 0 millis
+[Info  - 10:37:24 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:37:24 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:38:16 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:38:16 PM] Deep learning IntelliCode recommendations service returned in 14 millis
+[Info  - 10:38:32 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:38:32 PM] Deep learning IntelliCode recommendations service returned in 0 millis
+[Info  - 10:39:58 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:39:58 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:40:08 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:40:08 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:40:14 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:40:14 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:40:25 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:40:25 PM] Deep learning IntelliCode recommendations service returned in 0 millis
+[Info  - 10:40:26 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:40:26 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:40:27 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:40:27 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:40:31 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:40:31 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:40:49 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:40:49 PM] Deep learning IntelliCode recommendations service returned in 1 millis
+[Info  - 10:45:11 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:45:11 PM] Deep learning IntelliCode recommendations service returned in 0 millis
+[Info  - 10:45:20 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:45:20 PM] Deep learning IntelliCode recommendations service returned in 10 millis
+[Info  - 10:45:31 PM] Current invocation parsing returned null, aborting IntelliCode recommendation!
+[Info  - 10:45:31 PM] Deep learning IntelliCode recommendations service returned in 0 millis

@@ -1,0 +1,42 @@
+{
+   "author": "CrossPilot",
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icons/popup.png",
+      "default_popup": "html/popup.html"
+   },
+   "content_scripts": [ {
+      "css": [ "css/opera-store.css" ],
+      "js": [ "js/opera-store.js" ],
+      "matches": [ "https://addons.opera.com/*/extensions/details/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "externally_connectable": {
+      "matches": [ "https://crosspilot.io/*" ]
+   },
+   "homepage_url": "https://crosspilot.io",
+   "icons": {
+      "128": "images/icons/128.png",
+      "16": "images/icons/16.png",
+      "32": "images/icons/32.png",
+      "64": "images/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgkWmEHRAgG4dMJVaomnuvwTNHHLBhILX1OT+Jyn7rZ6VzHfJ1BWU0ukVY4oOIx50/2vGLzO8UVusOxybz6piaCnxb1Oyg6z1NBeTZ5wEkdZH7WMhw+3WY6cObDJFGNjBfsDh55y48hX9bvzT1uiLrmr67qa4ScULMQcZm2yi1srLhHHGhSiKyskVm1bGRM1Mr3PsHQyE5cRXkoBSeKmOLYQfXiNt1qQv+ocV8bwD1K1WlkhZ7zntdwNNOEwifyvtYvbPJaGsvpwlTOw7HOdKJQMAkklxsIU9ROIQ/PQglj0wjWHOHLi7fwHW9OxjIDjXUKm/kXOOpDoWV1r/f7JngQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "optional_permissions": [ "http://*/*", "https://*/*", "downloads", "downloads.open", "tabs" ],
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "html/options.html"
+   },
+   "permissions": [ "storage", "unlimitedStorage", "alarms" ],
+   "sandbox": {
+      "pages": [ "html/sandbox.html" ]
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.1"
+}

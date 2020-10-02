@@ -1,0 +1,159 @@
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'AA_testing - experiment'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - control'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonTipPromptWording'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+Error 2020-09-23 10:20:06: Failed to get interpreter information for '/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate' [Error: Command failed: "/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"
+/bin/sh: /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate: Permission denied
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"'
+}
+Error 2020-09-23 10:20:06: Failed to get interpreter information for '/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate' [Error: Command failed: "/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"
+/bin/sh: /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate: Permission denied
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"'
+}
+Error 2020-09-23 10:20:06: Failed to get interpreter information for '/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate' [Error: Command failed: "/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"
+/bin/sh: /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate: Permission denied
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"'
+}
+Error 2020-09-23 10:20:06: Failed to get interpreter information for '/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate' [Error: Command failed: "/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"
+/bin/sh: /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate: Permission denied
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"'
+}
+Error 2020-09-23 10:20:10: Failed to get interpreter information for '/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate' [Error: Command failed: "/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"
+/bin/sh: /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate: Permission denied
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"'
+}
+Error 2020-09-23 10:20:10: Failed to get interpreter information for '/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate' [Error: Command failed: "/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"
+/bin/sh: /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate: Permission denied
+
+	at ChildProcess.exithandler (child_process.js:304:12)
+	at ChildProcess.emit (events.js:223:5)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:223:5)
+	at Pipe.<anonymous> (net.js:664:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/activate" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py" "/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/interpreterInfo.py"'
+}
+Python interpreter path: ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python
+Starting Microsoft Python language server.
+Error 2020-09-23 10:20:25: Failed to activate language server, Class name = s, completed in 12749ms, has a falsy return value, Arg 1: <Uri:/home/wilmer/PythonProjects/Ejercicios/ejercicio_7.py>, Arg 2: {"architecture":3,"path":"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.8.5-final","major":3,"minor":8,"patch":5,"prerelease":["final"],"build":[],"version":"3.8.5-final"},"sysPrefix":"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O","fileHash":"9f4b15177d19da5a6a8919ac2e5a2de8f47631bfaf9e429cabb0ada104700951915d30202a9091294c091f2266be7a4eddd31ff2b5392bf857bd1e8d6d667af0","type":"Venv","envName":"PythonProjects-F28W4x1O","displayName":"Python 3.8.5 64-bit ('PythonProjects-F28W4x1O': venv)"}, Return Value: undefined [Error: Error: getaddrinfo EAI_AGAIN pvsc.azureedge.net
+	at _.downloadLanguageServer (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:47:309551)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async p.ensureLanguageServerFileIsAvailable (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:54:32571)
+	at async p.ensureLanguageServerIsAvailable (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:54:31594)
+	at async p.start (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:24:179024)]
+We encountered an issue starting the language server. Reverting to Jedi language engine. Check the Python output panel for details.
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/PythonProjects
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/PythonProjects
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/PythonProjects
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/PythonProjects
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/PythonProjects
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/PythonProjects
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/PythonProjects
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/PythonProjects
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/completion.py
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/pyvsc-run-isolated.py ~/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/completion.py
+> conda --version
+Error 2020-09-23 10:20:27: stderr jediProxy Error (stderr) /home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/completion.py:584: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  jedi.api.names(
+
+> pipenv --version
+cwd: ~/PythonProjects
+> pipenv --venv
+cwd: ~/PythonProjects
+> pipenv --py
+cwd: ~/PythonProjects
+> pipenv --version
+cwd: ~/PythonProjects
+> pipenv --venv
+cwd: ~/PythonProjects
+> pipenv --py
+cwd: ~/PythonProjects
+Error 2020-09-23 10:23:09: stderr jediProxy Error (stderr) /home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/completion.py:592: DeprecationWarning: Providing the line is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/completion.py:592: DeprecationWarning: Providing the column is now done in the functions themselves like `Script(...).complete(line, column)`
+  script = jedi.Script(
+
+Error 2020-09-23 10:23:09: stderr jediProxy Error (stderr) /home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/completion.py:592: DeprecationWarning: Deprecated since version 0.17.0. Use the project API instead, which means Script(project=Project(dir, sys_path=sys_path)) instead.
+  script = jedi.Script(
+/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/pythonFiles/completion.py:626: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).infer instead.
+  script.goto_definitions(), request["id"]
+

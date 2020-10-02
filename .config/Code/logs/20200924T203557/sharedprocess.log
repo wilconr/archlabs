@@ -1,0 +1,8 @@
+[2020-09-24 20:36:04.232] [sharedprocess] [info] main {"machineId":"ab16893c4f4f178ea158d6fa548a73ae15b61886026454bfd1d0295f4c484e70","windowId":2}
+[2020-09-24 20:36:12.563] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-09-24 20:36:44.259] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-24 20:36:58.584] [sharedprocess] [info] Downloaded extension: ms-python.python /home/wilmer/.config/Code/CachedExtensionVSIXs/ms-python.python-2020.9.111407
+[2020-09-24 20:37:03.196] [sharedprocess] [info] Extracted extension to /home/wilmer/.vscode/extensions/.ms-python.python-2020.9.111407: ms-python.python
+[2020-09-24 20:37:03.196] [sharedprocess] [info] Renamed to /home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407
+[2020-09-24 20:37:03.204] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-09-24 20:37:03.366] [sharedprocess] [info] Extensions installed successfully: ms-python.python

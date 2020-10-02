@@ -1,0 +1,155 @@
+{
+   "appDesc": {
+      "message": "Ne gubite svoje vrijeme. Universal Bypass automatski preskače dosadne skraćivače veza."
+   },
+   "beforeNavigate": {
+      "message": "Skoro ste na odredištu."
+   },
+   "beforeNavigateDestination": {
+      "message": "Vaše odredište je %"
+   },
+   "beforeNavigateInstant": {
+      "message": "Navođenje do %"
+   },
+   "beforeNavigateOptions": {
+      "message": "Dali želite biti preusmjereni odmah ili za x sekundi?"
+   },
+   "beforeNavigateTimer": {
+      "message": "Biti ćete automatski preusmjereni za % sekundi."
+   },
+   "beforeNavigateTimerSingular": {
+      "message": "Biti ćete automatski preusmjereni za 1 sekundu."
+   },
+   "beforeNavigateUnsafe": {
+      "message": "Međutim, ako se sada krećete, otkrivat će Universal Bypass."
+   },
+   "beforeNavigateUnsafeTimer": {
+      "message": "Više nećete biti otkriveni za % sekundi."
+   },
+   "beforeNavigateUnsafeTimerSingular": {
+      "message": "Više nećete biti otkriveni za 1 sekundu."
+   },
+   "blockedSubtitle": {
+      "message": "Ne želite da Universal Bypass spriječi loše aktere da dobiju vašu IP adresu?"
+   },
+   "blockedTitle": {
+      "message": "Universal Bypass spriječio je zapisivanje vaše IP adrese."
+   },
+   "bypassCounter": {
+      "message": "Universal Bypass je već zaobišao % stranica za vas."
+   },
+   "cancel": {
+      "message": "Otkaži"
+   },
+   "changelog": {
+      "message": "Promjene"
+   },
+   "contributors": {
+      "message": "Suradnici"
+   },
+   "crowdBypassed": {
+      "message": "Možda ne morate čekati!"
+   },
+   "crowdBypassedIgnore": {
+      "message": "Da li je ovo nije točno?"
+   },
+   "crowdBypassedInfo": {
+      "message": "Ostali Universal Bypass korisnici su već prijavili da ovo vodi prema %"
+   },
+   "crowdBypassedOptions": {
+      "message": "Želite li da se ovo otvori u novoj kartici trenutačno ili za x sekundi?"
+   },
+   "crowdBypassedTimer": {
+      "message": "Ovo će biti otvoreno u novoj kartici za % sekundi."
+   },
+   "crowdBypassedTimerSingular": {
+      "message": "Ove će biti otvoreno u novoj kartici za 1 sekundu."
+   },
+   "crowdCloseTimer": {
+      "message": "Ova kartica će se zatvoriti za % sekundi."
+   },
+   "crowdCloseTimerSingular": {
+      "message": "Ova kartica će se zatvoriti za 1. sekundu."
+   },
+   "crowdDisabled": {
+      "message": "Ova stranica je zaobiđena od stane drugih korisnika, no tu opciju ste onemogućili u postavkama."
+   },
+   "crowdWait": {
+      "message": "Nažalost, vi ste prvi koji je naišao na ovaj link, ali nakon što ste čekali, ostali korisnici Universal Bypass-a više ne moraju čekati."
+   },
+   "definitionsVersion": {
+      "message": "Zaobići definicije"
+   },
+   "faq": {
+      "message": "Često Postavljena Pitanja (ČPP)"
+   },
+   "firstrunNoScript": {
+      "message": "Međutim, čini se da koristiš NoScript ili slično, sa čime Universal Bypass nije kompatibilan."
+   },
+   "firstrunTitle": {
+      "message": "Hvala na instaliranju Universal Bypass!"
+   },
+   "infoFileHoster": {
+      "message": "Nažalost, poslužitelj za preuzimanja će se potruditi da ste pričekali prije no što ste u mogućnosti preuzeti datoteku."
+   },
+   "infoOutdated": {
+      "message": "Ova stranica je premošćena sa novom verzijom  of Universal Bypass."
+   },
+   "options": {
+      "message": "Opcije"
+   },
+   "optionsBlockIPLoggers": {
+      "message": "Blokiraj zapisivanje IP adrese ako se ne nemože zaobići."
+   },
+   "optionsCrowdAutoClose": {
+      "message": "Zatvorite karticu koja sadrži crowd-sourced odredišta nakon % sekunde posjeta."
+   },
+   "optionsCrowdAutoOpen": {
+      "message": "Otvori crowd-sourced odredište u novoj kartici nakon % sekund(a). (0 = odmah.)"
+   },
+   "optionsCrowdBypass": {
+      "message": "Give and take the destinations of unbypassable shorteners."
+   },
+   "optionsEnabled": {
+      "message": "Omogući zaobilaženje stranice."
+   },
+   "optionsInstantNavigationTrackers": {
+      "message": "Odmah me odvedi na odredišta trakera."
+   },
+   "optionsLink": {
+      "message": "Promjeni Universal Bypass opcije."
+   },
+   "optionsNavigationDelay": {
+      "message": "Odvedi me do odredišta nakon % sekundi. (Koristi 0 za ptebacivanje odmah.)"
+   },
+   "optionsTrackerBypass": {
+      "message": "Zaobiđite trackere (poput bit.ly i t.co) pomoću Apimon.de."
+   },
+   "optionsUserscripts": {
+      "message": "Prilagođeno zaobilaženje"
+   },
+   "optionsUserscriptsDescription": {
+      "message": "Ovo je napredna mogućnost za developere kako bi stvorili nova zaobilaženja. Jednom kada su usavršena mogu se poslati na GitHub, kako bi bi bila dostupna svim korisnicima Universal Bypass-a."
+   },
+   "privacyPolicy": {
+      "message": "Pravila privatnosti"
+   },
+   "support": {
+      "message": "Podržite Universal Bypass"
+   },
+   "update": {
+      "message": "Potraži ažuriranja"
+   },
+   "updateNo": {
+      "message": "Definicije obilaznice su ažurirane."
+   },
+   "updateYes": {
+      "message": "Definicije zaobilaznog mjesta uspješno su preuzete."
+   },
+   "updating": {
+      "message": "Preuzimanje definicija zaobilaznih prava ..."
+   },
+   "version": {
+      "message": "Verzija"
+   }
+}

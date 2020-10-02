@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Noin"
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "Siepata selainikkuna ja"
+   },
+   "action_capture_entire": {
+      "message": "Siepata koko sivu ja"
+   },
+   "action_capture_entire_lite": {
+      "message": "Siepata koko sivu"
+   },
+   "action_capture_selection": {
+      "message": "Talteenotto /sieppauselementti ja"
+   },
+   "action_capture_selection_lite": {
+      "message": "Talteenotto"
+   },
+   "action_capture_tabs": {
+      "message": "Kaapata kaikki välilehdet ja"
+   },
+   "action_capture_visible": {
+      "message": "Kaapata näkyvää osaa ja"
+   },
+   "action_capture_visible_lite": {
+      "message": "Kaapata näkyvää osaa"
+   },
+   "action_copy": {
+      "message": "Kopioi leikepöydälle"
+   },
+   "action_edit": {
+      "message": "Muokata"
+   },
+   "action_email": {
+      "message": "E-M​a​​i​l"
+   },
+   "action_enter_license": {
+      "message": "Sisällysluettelot"
+   },
+   "action_external": {
+      "message": "Avaa ulkoisessa editorissa"
+   },
+   "action_install_native": {
+      "message": "Kokeile etukäteen liittyviä ominaisuuksia"
+   },
+   "action_license_info": {
+      "message": "Lisenssitiedot"
+   },
+   "action_micsellaneous": {
+      "message": "Sekalainen"
+   },
+   "action_onenote": {
+      "message": "Lähetä Nᴏt e"
+   },
+   "action_open_clipboard": {
+      "message": "Avataan leikepöydältä"
+   },
+   "action_open_file": {
+      "message": "Avaa tiedosto"
+   },
+   "action_options": {
+      "message": "Vaihtoehtoja"
+   },
+   "action_print": {
+      "message": "Tulosta"
+   },
+   "action_register": {
+      "message": "Ilmoittautua"
+   },
+   "action_resume": {
+      "message": "Jatka muokkausta"
+   },
+   "action_save": {
+      "message": "Tallentaa"
+   },
+   "action_save_pdf": {
+      "message": "PDF Tallenna nimellä"
+   },
+   "action_save_pdf_single": {
+      "message": "Tallenna yhtenä PDF-tiedostona"
+   },
+   "action_support": {
+      "message": "Tuki"
+   },
+   "action_switch_pro": {
+      "message": "Vaihtaa Prᴏ"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Aktivoi Pro-toiminnot jatkaaksesi"
+   },
+   "action_upload": {
+      "message": "Lataa"
+   },
+   "action_view_demo": {
+      "message": "Katso demoa"
+   },
+   "application_description": {
+      "message": "Ota täysi verkkosivun kuvakaappauksia. Voit tallentaa, muokata ja tallentaa ne, lähettää, tulostaa, lähettää OneNote-palveluun, leikepöydälle tai sähköpostille"
+   },
+   "application_title": {
+      "message": "Ota verkkosivun kuvakaappauksia kokonaan - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Osta Pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "Kopioi leikepöydälle"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Opi kuinka"
+   },
+   "captured_get_free_button": {
+      "message": "Kokeile sitä ilmaiseksi"
+   },
+   "captured_print": {
+      "message": "Tulosta"
+   },
+   "captured_print_button": {
+      "message": "Tulosta"
+   },
+   "captured_recommend_us": {
+      "message": "Suosittele FireShot"
+   },
+   "captured_save_as_image": {
+      "message": "Tallenna kuvaksi"
+   },
+   "captured_save_as_image_button": {
+      "message": "Tallenna kuvaksi"
+   },
+   "captured_save_as_pdf": {
+      "message": "Tallenna PDF-tiedostoon"
+   },
+   "captured_save_panel_title": {
+      "message": "Tallenna kuvakaappaus"
+   },
+   "captured_saving_options": {
+      "message": "muokkaa sitä"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Asetukset ja pikanäppäimet"
+   },
+   "captured_upgrade_link_1": {
+      "message": "Siepata, kommentoida, tulostaa ja tallentaa paremmin, muokata, lähettää, lähettää sähköpostia / onenote tai tutustua toiseen ohjelmaan"
+   },
+   "captured_upgrade_link_2": {
+      "message": "Päivitä FireShot Pro ohjelmaan"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Käytin toista FireShot-versiota"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Voinko saada sen takaisin"
+   },
+   "enable_checkbox": {
+      "message": "Ota käyttöön"
+   },
+   "options_button_apply": {
+      "message": "Käytä"
+   },
+   "options_button_save_close": {
+      "message": "Tallenna ja sulje"
+   },
+   "options_button_setup": {
+      "message": "Napsauta asennusta"
+   },
+   "options_label_and": {
+      "message": "ja"
+   },
+   "options_label_capturing": {
+      "message": "Syömällä"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "sulje välilehti tallennuksen jälkeen"
+   },
+   "options_label_customize_saving": {
+      "message": "Muokata tallennusprosessia"
+   },
+   "options_label_default_filename_template": {
+      "message": "Oletustiedoston malli"
+   },
+   "options_label_default_folder": {
+      "message": "Oletuskansio"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Tiedostopolku, joka on ladattujen tiedostojen sisältävään tiedostoon, joka sisältää mahdollisesti alihakemistoja.\nAbsoluuttiset reitit, tyhjät polut ja polut, jotka sisältävät takaisinviittauksia «..» aiheuttaa virheen"
+   },
+   "options_label_editor_options": {
+      "message": "Editori"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integroi FireShot kontekstivalikkoon"
+   },
+   "options_label_file_settings": {
+      "message": "Tiedostoasetukset"
+   },
+   "options_label_fireshot_options": {
+      "message": "Fireshot vaihtoehtoja"
+   },
+   "options_label_hotkey": {
+      "message": "Pikanäppäimet"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Viimeksi käytetty toiminto"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Älä näytä \"Tallenna nimellä\" - valintaikkuna"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Näytä ladattu tiedosto kansiossaan tallennuksen jälkeen"
+   },
+   "options_label_save_image_as": {
+      "message": "Tallenna kuva"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Määritä editori ja tallennusvaihtoehdot, tiedostonimitysasetukset, tyyli jne"
+   },
+   "options_label_specify_hotkey": {
+      "message": "Määritä käynnistysavain FireShot"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Määritä koon muutosasetukset ja äänet"
+   },
+   "options_label_template_day": {
+      "message": "Päivä"
+   },
+   "options_label_template_hour": {
+      "message": "Tunnin"
+   },
+   "options_label_template_limit_1": {
+      "message": "Rajoita tiedostonimen pituus"
+   },
+   "options_label_template_limit_2": {
+      "message": "merkkiä"
+   },
+   "options_label_template_minutes": {
+      "message": "Minuutit"
+   },
+   "options_label_template_month": {
+      "message": "Kuukausi"
+   },
+   "options_label_template_pad_1": {
+      "message": "Tyynyn numero"
+   },
+   "options_label_template_pad_2": {
+      "message": "nollat"
+   },
+   "options_label_template_seconds": {
+      "message": "Sekuntia"
+   },
+   "options_label_template_title": {
+      "message": "Sivun otsikko"
+   },
+   "options_label_template_url": {
+      "message": "Sivun URL-osoite"
+   },
+   "options_label_template_website": {
+      "message": "Verkkotunnus"
+   },
+   "options_label_template_year": {
+      "message": "Vuosi"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Näytä tiedostonimen mallien asetukset"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Näyttää folename-mallin asetukset"
+   }
+}

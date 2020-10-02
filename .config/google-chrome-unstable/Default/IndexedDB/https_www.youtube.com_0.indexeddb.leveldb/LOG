@@ -1,0 +1,5 @@
+2020/04/21-16:40:45.527 9d71 Reusing MANIFEST /home/wilmer/.config/google-chrome-unstable/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/21-16:41:17.469 a5fe Level-0 table #5: started
+2020/04/21-16:41:17.506 a5fe Level-0 table #5: 2801 bytes OK
+2020/04/21-16:41:17.544 a5fe Delete type=0 #3
+2020/04/21-16:41:17.545 a5fe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/09/25-15:29:21.076 1ac3 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/25-15:29:21.076 1ac3 Recovering log #74
+2020/09/25-15:29:21.076 1ac3 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/000074.log 
+2020/09/25-15:29:26.857 1c8c Level-0 table #79: started
+2020/09/25-15:29:27.016 1c8c Level-0 table #79: 634 bytes OK
+2020/09/25-15:29:27.256 1c8c Delete type=0 #74
+2020/09/25-15:29:27.256 1c8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/25-15:29:27.256 1c8c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\x90\xf9\xbarLwB\x00\x01\x14\x005\x001\x00R\x00E\x00W\x007\x00J\x00D\x00W\x00Z\x00M\x00P\x003\x004\x00T\x00T\x00N\x00S\x001\x00M' @ 2087 : 1
+2020/09/25-15:29:27.256 1c8c Compacting 1@1 + 1@2 files
+2020/09/25-15:29:27.427 1c8c Generated table #80@1: 46 keys, 14803 bytes
+2020/09/25-15:29:27.427 1c8c Compacted 1@1 + 1@2 files => 14803 bytes
+2020/09/25-15:29:27.618 1c8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/25-15:29:27.618 1c8c Delete type=2 #79
+2020/09/25-15:29:27.618 1c8c Delete type=2 #76
+2020/09/25-15:29:27.618 1c8c Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\x90\xf9\xbarLwB\x00\x01\x14\x005\x001\x00R\x00E\x00W\x007\x00J\x00D\x00W\x00Z\x00M\x00P\x003\x004\x00T\x00T\x00N\x00S\x001\x00M' @ 2087 : 1 .. (end); will stop at (end)

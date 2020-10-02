@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+  <head>
+    <title>TempMail</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0, maximum-scale=1" />
+    <meta charset="utf-8"/>
+    <link media="all" rel="stylesheet" type="text/css" href="css/main.css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,300i,400,400i,500,500i,700|Roboto:100,100i,300,300i,400,400i,500,500i,700" rel="stylesheet">
+
+  </head>
+  <body>
+    <script src="elements.js"></script>
+    <div class="wrapper" style="margin: 0px;">
+        <div class="box" style="margin: 0px;">
+            <div class="wrapper__box clearfix" style="margin: 0px; padding:0px; border:0px;">
+            <x-workplace reflect-events="noThanks" style="margin: 0px; padding:0px; border:0px;  width:100%;">
+                <x-slide-random-show default-slide="workplace" slides="workplace:15; vote:1; share:1;" no-thans="5" style="margin: 0px; padding:0px; border:0px;  width:100%;">
+                    <x-workplace id="workplace" reflect-events="emailChanged" style="margin: 0px; padding:0px; border:0px;  width:100%;">
+                        <div class="box__header">
+                            <x-header style="margin: 0px;"></x-header>
+                        </div>
+                        <div class="box__center">
+                            <x-header-message></x-header-message>
+                            <x-email></x-email>
+                            <div class="btn__wrapper">
+                                <x-change-button></x-change-button>
+                                <x-copy-button target-id="email"></x-copy-button>
+                            </div>
+                        </div>
+                        <div class="box__bottom">
+                            <x-read-mail></x-read-mail>
+                        </div>
+                        <div class="box__autofill-settings">
+                            <x-autofill-settings />
+                        </div>
+                        <div class="box__footer">
+                            <x-ad-banner src="http://d1uvhm532ipx9t.cloudfront.net/banners/banner.html" refresh-period="0"></x-ad-banner>
+                        </div>
+                    </x-workplace>
+                    <x-workplace id="vote">
+                        <div class="box__header">
+                            <x-header style="margin: 0px;"></x-header>
+                        </div>
+                        <div class="box__center-vote">
+                            <x-vote point-scale="5"></x-vote>
+                        </div>
+                        <div class="box__bottom">
+                            <div class="btn__wrapper btn__bottom">
+                                <x-no-thanks-button></x-no-thanks-button>
+                            </div>
+                        </div>
+                        <div class="box__footer">
+                            <x-ad-banner src="http://d1uvhm532ipx9t.cloudfront.net/banners/banner.html" refresh-period="0"></x-ad-banner>
+                        </div>
+                    </x-workplace>
+                    <x-workplace id="share">
+                        <div class="box__header">
+                            <x-header style="margin: 0px;"></x-header>
+                        </div>
+                        <div class="box__center">
+                            <x-share></x-share>
+                        </div>
+                        <div class="box__bottom">
+                            <div class="btn__wrapper btn__bottom">
+                                <x-no-thanks-button></x-no-thanks-button>
+                            </div>
+                        </div>
+                        <div class="box__footer">
+                            <x-ad-banner src="http://d1uvhm532ipx9t.cloudfront.net/banners/banner.html" refresh-period="0"></x-ad-banner>
+                        </div>
+                    </x-workplace>
+                </x-slide-random-show>
+              </x-workplace>
+            </div>
+        </div>
+    </div>
+  </body>
+</html>
+

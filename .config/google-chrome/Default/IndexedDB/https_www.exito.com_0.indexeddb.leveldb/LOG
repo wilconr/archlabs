@@ -1,0 +1,15 @@
+2020/06/15-17:45:52.801 9dc4 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.exito.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/15-17:45:52.802 9dc4 Recovering log #23
+2020/06/15-17:45:52.802 9dc4 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.exito.com_0.indexeddb.leveldb/000023.log 
+2020/06/15-17:46:24.970 487 Level-0 table #28: started
+2020/06/15-17:46:25.004 487 Level-0 table #28: 1487 bytes OK
+2020/06/15-17:46:25.047 487 Delete type=0 #23
+2020/06/15-17:46:25.047 487 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/15-17:46:25.047 487 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01 \x03\x00\xf0\x07\x91\xa2+wB\x00\x01<\x00i\x00m\x00g\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00e\x00x\x00i\x00t\x00o\x00.\x00c\x00o\x00m\x00/\x00p\x00w\x00a\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00i\x00c\x00o\x00n\x00-\x005\x001\x002\x00x\x005\x001\x002\x00-\x001\x004\x004\x00x\x001\x004\x004\x00.\x00p\x00n\x00g' @ 627 : 1
+2020/06/15-17:46:25.047 487 Compacting 1@1 + 1@2 files
+2020/06/15-17:46:25.094 487 Generated table #29@1: 110 keys, 4769 bytes
+2020/06/15-17:46:25.094 487 Compacted 1@1 + 1@2 files => 4769 bytes
+2020/06/15-17:46:25.134 487 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/15-17:46:25.134 487 Delete type=2 #25
+2020/06/15-17:46:25.134 487 Delete type=2 #28
+2020/06/15-17:46:25.135 487 Manual compaction at level-1 from '\x00\x03\x01 \x03\x00\xf0\x07\x91\xa2+wB\x00\x01<\x00i\x00m\x00g\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00e\x00x\x00i\x00t\x00o\x00.\x00c\x00o\x00m\x00/\x00p\x00w\x00a\x00/\x00i\x00c\x00o\x00n\x00s\x00/\x00i\x00c\x00o\x00n\x00-\x005\x001\x002\x00x\x005\x001\x002\x00-\x001\x004\x004\x00x\x001\x004\x004\x00.\x00p\x00n\x00g' @ 627 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/06/15-17:45:47.181 ab5f Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.exito.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/15-17:45:47.182 ab5f Recovering log #19
+2020/06/15-17:45:47.182 ab5f Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.exito.com_0.indexeddb.leveldb/000019.log 
+2020/06/15-17:45:49.352 487 Level-0 table #24: started
+2020/06/15-17:45:49.455 487 Level-0 table #24: 730 bytes OK
+2020/06/15-17:45:49.621 487 Delete type=0 #19
+2020/06/15-17:45:49.622 487 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/15-17:45:49.622 487 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x01-\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00e\x00x\x00i\x00t\x00o\x00.\x00c\x00o\x00m\x00/\x00p\x00w\x00a\x00/\x00w\x00o\x00r\x00k\x00e\x00r\x00s\x00/\x00r\x00e\x00g\x00i\x00s\x00t\x00e\x00r\x00.\x00j\x00s\x00\x01-\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00e\x00x\x00i\x00t\x00o\x00.\x00c\x00o\x00m\x00/\x00p\x00w\x00a\x00/\x00w\x00o\x00r\x00k\x00e\x00r\x00s\x00/\x00r\x00e\x00g\x00i\x00s\x00t\x00e\x00r\x00.\x00j\x00s' @ 581 : 1
+2020/06/15-17:45:49.622 487 Compacting 1@1 + 1@2 files
+2020/06/15-17:45:49.687 487 Generated table #25@1: 109 keys, 4683 bytes
+2020/06/15-17:45:49.688 487 Compacted 1@1 + 1@2 files => 4683 bytes
+2020/06/15-17:45:49.724 487 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/15-17:45:49.725 487 Delete type=2 #21
+2020/06/15-17:45:49.725 487 Delete type=2 #24
+2020/06/15-17:45:49.726 487 Manual compaction at level-1 from '\x00\x02\x01\x1f\x01-\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00e\x00x\x00i\x00t\x00o\x00.\x00c\x00o\x00m\x00/\x00p\x00w\x00a\x00/\x00w\x00o\x00r\x00k\x00e\x00r\x00s\x00/\x00r\x00e\x00g\x00i\x00s\x00t\x00e\x00r\x00.\x00j\x00s\x00\x01-\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00e\x00x\x00i\x00t\x00o\x00.\x00c\x00o\x00m\x00/\x00p\x00w\x00a\x00/\x00w\x00o\x00r\x00k\x00e\x00r\x00s\x00/\x00r\x00e\x00g\x00i\x00s\x00t\x00e\x00r\x00.\x00j\x00s' @ 581 : 1 .. (end); will stop at (end)

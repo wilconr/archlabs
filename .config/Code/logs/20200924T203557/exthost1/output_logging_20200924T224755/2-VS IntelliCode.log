@@ -1,0 +1,6 @@
+Language server is set to Microsoft.
+Acquiring model 'intellisense-members-lstm' for python
+Querying IntelliCode service for available models.
+vs-intellicode-python was passed a model: {}.
+Cached model is up to date.
+Error while activating Python: {}

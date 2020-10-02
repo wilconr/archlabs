@@ -1,0 +1,5 @@
+2020/07/20-12:48:30.507 eff Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/20-20:12:49.760 1024 Level-0 table #5: started
+2020/07/20-20:12:49.825 1024 Level-0 table #5: 155283 bytes OK
+2020/07/20-20:12:49.865 1024 Delete type=0 #3
+2020/07/20-20:12:49.866 1024 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

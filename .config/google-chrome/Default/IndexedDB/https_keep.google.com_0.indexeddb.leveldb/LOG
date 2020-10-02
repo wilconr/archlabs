@@ -1,0 +1,15 @@
+2020/07/29-10:47:36.464 17f1 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/29-10:47:36.464 17f1 Recovering log #4
+2020/07/29-10:47:36.464 17f1 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/000004.log 
+2020/07/29-11:07:02.269 9fb Level-0 table #8: started
+2020/07/29-11:07:02.313 9fb Level-0 table #8: 190 bytes OK
+2020/07/29-11:07:02.352 9fb Delete type=0 #4
+2020/07/29-11:07:02.365 9fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/29-11:07:02.366 9fb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 165 : 1
+2020/07/29-11:07:02.366 9fb Compacting 1@1 + 1@2 files
+2020/07/29-11:07:02.402 9fb Generated table #9@1: 53 keys, 916 bytes
+2020/07/29-11:07:02.402 9fb Compacted 1@1 + 1@2 files => 916 bytes
+2020/07/29-11:07:02.440 9fb compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/29-11:07:02.441 9fb Delete type=2 #5
+2020/07/29-11:07:02.441 9fb Delete type=2 #8
+2020/07/29-11:07:02.442 9fb Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 165 : 1 .. (end); will stop at (end)

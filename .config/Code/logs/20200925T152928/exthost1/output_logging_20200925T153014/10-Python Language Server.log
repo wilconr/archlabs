@@ -1,0 +1,19 @@
+Downloading https://pvsc.azureedge.net/python-language-server-stable/Python-Language-Server-linux-x64.0.5.51.nupkg...
+Language server download complete
+Unpacking archive... done
+[Info  - 3:31:55 PM] Analysis cache path: /home/wilmer/.cache/Microsoft/Python Language Server
+[Info  - 3:31:55 PM] Microsoft Python Language Server version 0.5.51.0
+[Info  - 3:31:55 PM] Workspace root: /home/wilmer/PythonProjects
+[Info  - 3:31:55 PM] GetCurrentSearchPaths /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python 
+[Info  - 3:31:56 PM] Interpreter search paths:
+[Info  - 3:31:56 PM]     /usr/lib/python3.8
+[Info  - 3:31:56 PM]     /usr/lib/python3.8/lib-dynload
+[Info  - 3:31:56 PM]     /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/lib/python3.8/site-packages
+[Info  - 3:31:56 PM] User search paths:
+2020-09-25 15:32:01.757870932 [W:onnxruntime:, graph.cc:814 Graph] Initializer embeddings_matrix:0_quantized appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+2020-09-25 15:32:01.757920993 [W:onnxruntime:, graph.cc:814 Graph] Initializer embeddings_matrix:0_scale appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+2020-09-25 15:32:01.757936544 [W:onnxruntime:, graph.cc:814 Graph] Initializer embeddings_matrix:0_zero_point appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+2020-09-25 15:32:01.757950664 [W:onnxruntime:, graph.cc:814 Graph] Initializer fixed_quantization_range_uint8 appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+2020-09-25 15:32:01.757964185 [W:onnxruntime:, graph.cc:814 Graph] Initializer fixed_zero appears in graph inputs and will not be treated as constant value/weight. This may fail some of the graph optimizations, like const folding. Move it out of graph inputs if there is no need to override it, by either re-generating the model with latest exporter/converter or with the tool onnxruntime/tools/python/remove_initializer_from_input.py.
+[Info  - 3:32:04 PM] Initializing for /home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python
+[Info  - 3:32:04 PM] Analysis caching mode: None.

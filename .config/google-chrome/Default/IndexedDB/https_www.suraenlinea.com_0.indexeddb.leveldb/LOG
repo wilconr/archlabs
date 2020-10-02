@@ -1,0 +1,15 @@
+2020/07/13-16:02:22.252 327 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.suraenlinea.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/13-16:02:22.252 327 Recovering log #4
+2020/07/13-16:02:22.252 327 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.suraenlinea.com_0.indexeddb.leveldb/000004.log 
+2020/07/13-16:02:43.782 4e6 Level-0 table #8: started
+2020/07/13-16:02:43.823 4e6 Level-0 table #8: 892 bytes OK
+2020/07/13-16:02:43.854 4e6 Delete type=0 #4
+2020/07/13-16:02:43.854 4e6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/13-16:02:43.855 4e6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x06\x00a\x00v\x00a\x00t\x00a\x00r' @ 97 : 1
+2020/07/13-16:02:43.855 4e6 Compacting 1@1 + 1@2 files
+2020/07/13-16:02:43.890 4e6 Generated table #9@1: 32 keys, 1039 bytes
+2020/07/13-16:02:43.890 4e6 Compacted 1@1 + 1@2 files => 1039 bytes
+2020/07/13-16:02:43.919 4e6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/13-16:02:43.919 4e6 Delete type=2 #5
+2020/07/13-16:02:43.919 4e6 Delete type=2 #8
+2020/07/13-16:02:43.935 4e6 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x06\x00a\x00v\x00a\x00t\x00a\x00r' @ 97 : 1 .. (end); will stop at (end)

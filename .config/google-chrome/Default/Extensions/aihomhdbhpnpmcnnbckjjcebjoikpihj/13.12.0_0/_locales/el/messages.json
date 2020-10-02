@@ -1,0 +1,167 @@
+{
+   "appDesc": {
+      "message": "Μην σπαταλάς τον χρόνο σου περιμένοντας. Ο Universal Bypass παραλείπει αυτόματα ενοχλητικούς συνδέσμους συντομεύσεων."
+   },
+   "beforeNavigate": {
+      "message": "Είστε σχεδόν στον προορισμό σας."
+   },
+   "beforeNavigateDestination": {
+      "message": "Ο προορισμός σας είναι %"
+   },
+   "beforeNavigateInstant": {
+      "message": "Σας πλοηγουμαι στην %"
+   },
+   "beforeNavigateOptions": {
+      "message": "Θέλεις να ανακατευθυνθείς αμέσως, ή σε Χ δευτερόλεπτα;"
+   },
+   "beforeNavigateTimer": {
+      "message": "Θα ανακατευθυνθείς αυτόματα σε % δευτερόλεπτα."
+   },
+   "beforeNavigateTimerSingular": {
+      "message": "Θα ανακατευθυνθείς αυτόματα σε 1 δευτερόλεπτο."
+   },
+   "beforeNavigateUnsafe": {
+      "message": "κι ομως, με δεδομενο οτι παραλειψετε την ιστοσελιδα τωρα, θα εντοπισουν το παγκοσμιο εργαλειο παραλειψης"
+   },
+   "beforeNavigateUnsafeTimer": {
+      "message": "Δεν θα σας εντοπισουν σε % δευτερολεπτοα"
+   },
+   "beforeNavigateUnsafeTimerSingular": {
+      "message": "Δεν θα σας εντοπισουν σε 1 δευτερολεπτο"
+   },
+   "blockedSubtitle": {
+      "message": "Δεν θές να αποτρέψει το Universal Bypass τους κακόβουλους φορείς από να υποκλέψουν την IP σου;"
+   },
+   "blockedTitle": {
+      "message": "Το Universal Bypass εμπόδισε την IP σου από το να καταγραφεί."
+   },
+   "bypassCounter": {
+      "message": "Το Universal Bypass έχει ήδη παρακάμψει % ιστοσελίδες για εσένα."
+   },
+   "cancel": {
+      "message": "Ακύρωση"
+   },
+   "changelog": {
+      "message": "Αλλαγές"
+   },
+   "contributors": {
+      "message": "Συνεισφέροντες"
+   },
+   "crowdBypassed": {
+      "message": "Ίσως να μη χρειαστεί να περιμένεις!"
+   },
+   "crowdBypassedIgnore": {
+      "message": "Δεν ήταν αυτό σωστό;"
+   },
+   "crowdBypassedInfo": {
+      "message": "Άλλοι χρήστες του Universal Bypass έχουν ήδη περιμένει για εσένα, και έχουν αναφέρει ότι αυτό οδηγεί σε %"
+   },
+   "crowdBypassedOptions": {
+      "message": "Θέλεις να ανοίξει σε καινούργια καρτέλα αμέσως, ή σε Χ δευτερόλεπτα;"
+   },
+   "crowdBypassedTimer": {
+      "message": "Θα ανοίξει σε καινούργια καρτέλα σε % δευτερόλεπτα."
+   },
+   "crowdBypassedTimerSingular": {
+      "message": "Θα ανοίξει σε καινούργια καρτέλα σε 1 δευτερόλεπτο."
+   },
+   "crowdCloseTimer": {
+      "message": "Η καρτέλα θα κλειστεί σε % δευτερόλεπτα."
+   },
+   "crowdCloseTimerSingular": {
+      "message": "Η καρτέλα θα κλειστεί σε 1 δευτερόλεπτο."
+   },
+   "crowdDisabled": {
+      "message": "Αυτός ο ιστότοπος έχει παρακαμφθεί από άλλους χρήστες, το οποίο έχετε απενεργοποιήσει στις επιλογές."
+   },
+   "crowdWait": {
+      "message": "Δυστυχώς, είσαι ο πρώτος που θα συνάντησες αυτόν τον σύνδεσμο, αλλά αφού έχεις περιμένει και συνδεθεί, δε θα απαιτείται από τους άλλους χρήστες του Universal Bypass."
+   },
+   "definitionsVersion": {
+      "message": "Ορισμοι παραλειψης"
+   },
+   "faq": {
+      "message": "Συχνές Ερωτήσεις (FAQ)"
+   },
+   "firstrunNoScript": {
+      "message": "Ωστόσο, φαίνεται να χρησιμοποιείς NoScript ή παρόμοιο, με τα οποία το Universal Bypass δεν είναι συμβατό."
+   },
+   "firstrunTitle": {
+      "message": "Σε ευχαριστούμε για την εγκατάσταση του Universal Bypass!"
+   },
+   "infoFileHoster": {
+      "message": "Δυστυχώς ο διακομιστής θα σιγουρευτεί οτι περιμενετε πριν σας επιτραπει να κατεβασετε το αρχειο "
+   },
+   "infoOutdated": {
+      "message": "Η δεδομενη ιστοσελιδα δεν υποστηρίζει την πιο προσφατη εκδοση του παγκοσμιου εργαλειου παραλειψης"
+   },
+   "legalBattleInfo1": {
+      "message": "Η σελίδα Linkvertise θέλει να κάνει μήνυση στο Universal Bypass."
+   },
+   "legalBattleInfo2": {
+      "message": "Άμα σου αρέσει η επέκταση, βοηθήστε με να παλέψω εναντίον της."
+   },
+   "legalBattleInfo3": {
+      "message": "Άμα θα θέλατε να μάθετε κι άλλα γι' αυτό το θέμα"
+   },
+   "legalBattleInfo4": {
+      "message": "εδώ είναι κάποιες πληροφορίες"
+   },
+   "options": {
+      "message": "Επιλογές"
+   },
+   "optionsBlockIPLoggers": {
+      "message": "Μπλόκαρε IP loggers, αν αυτοί δεν μπορούν να παρακάμπτουν."
+   },
+   "optionsCrowdAutoClose": {
+      "message": "Να κλείνεται η καρτέλα με τον προορισμό τροφοδοτημένα από χρήστες % δευτερόλεπτο/α αφού το επισκεφθείς."
+   },
+   "optionsCrowdAutoOpen": {
+      "message": "Άνοιξε προορισμούς τροφοδοτημένους από τους χρήστες σε καινούργια καρτέλα μετά απο % δευτερολεπτό/α. (0 = άμεσως.)"
+   },
+   "optionsCrowdBypass": {
+      "message": "Δώσε και να πάρε τους προορισμούς των συντομευτών που δεν παρακάμπτονται."
+   },
+   "optionsEnabled": {
+      "message": "Ενεργοποίηση παρακάμψεων ιστοσελίδων."
+   },
+   "optionsInstantNavigationTrackers": {
+      "message": "Πήγαινε με αμέσως στους προορισμούς των trackers."
+   },
+   "optionsLink": {
+      "message": "Άλλαξε τις επιλογές του Universal Bypass."
+   },
+   "optionsNavigationDelay": {
+      "message": "Πήγαινε με στον προορισμό μετά από % δευτερολεπτό/α. (πάτα 0 για να μεταφερθείς κατευθείαν)"
+   },
+   "optionsTrackerBypass": {
+      "message": "αποτρέψετε την ιχνηλατηση (οπως bit.ly και t.co) με την μεσολαβηση του Apimon.de.  "
+   },
+   "optionsUserscripts": {
+      "message": "Προσαρμοσμένες παρακάμψεις"
+   },
+   "optionsUserscriptsDescription": {
+      "message": "Αυτή είναι προηγμένη λειτουργία που απευθύνεται σε προγραμματιστές για να δημιουργήσουν δικά τους σενάρια για να παρακάμπτουν ιστοσελίδες. Όταν έχουν τελειοποιηθεί, μπορούν να σταλούν στο GitHub για να προστεθούν στο Universal Bypass και να είναι διαθέσιμα σε όλους."
+   },
+   "privacyPolicy": {
+      "message": "Πολιτική Απορρήτου"
+   },
+   "support": {
+      "message": "Υποστήριξε το Universal Bypass."
+   },
+   "update": {
+      "message": "Έλεγχος ενημερώσεων"
+   },
+   "updateNo": {
+      "message": "Το σενάριο εισαγωγής είναι ήδη ενημερωμένο."
+   },
+   "updateYes": {
+      "message": "Το σενάριο εισαγωγής ενημερώθηκε επιτυχώς!"
+   },
+   "updating": {
+      "message": "Κατεβαινουν οι ορισμοι παραλειψης"
+   },
+   "version": {
+      "message": "Έκδοση"
+   }
+}

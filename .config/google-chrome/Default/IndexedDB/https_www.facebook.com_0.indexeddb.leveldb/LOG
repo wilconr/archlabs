@@ -1,0 +1,5 @@
+2020/04/30-20:20:07.965 3417 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/30-20:20:40.293 3617 Level-0 table #5: started
+2020/04/30-20:20:40.392 3617 Level-0 table #5: 1234 bytes OK
+2020/04/30-20:20:40.447 3617 Delete type=0 #3
+2020/04/30-20:20:40.448 3617 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

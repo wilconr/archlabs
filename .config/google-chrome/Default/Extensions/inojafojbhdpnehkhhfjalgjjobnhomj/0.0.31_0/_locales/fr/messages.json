@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "Ajouter à la liste d'exceptions"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Adresse électronique temporaire disponible. Protégez votre courrier contre le spam, les bots et le phishing avec TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - E-mail temporaire disponible"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Changer"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "VÉRIFIER LE COURRIEL"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Copier"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Bouton de remplissage automatique des formulaires"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Boîte de réception"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "Messages non lus"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "Vous avez un nouveau courriel"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "Non merci"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Coller l'adresse e-mail temporaire"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "QR Code"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Évaluez nous"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "Si vous aimez notre application, prenez un moment pour la noter dans la boutique en ligne."
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "Supprimer de la liste d'exceptions"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Partagez-nous"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Je vous remercie"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Attendez un moment"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Votre e-mail temporaire"
+   }
+}

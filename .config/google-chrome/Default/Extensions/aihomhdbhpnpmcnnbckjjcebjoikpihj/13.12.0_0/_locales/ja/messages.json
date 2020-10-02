@@ -1,0 +1,167 @@
+{
+   "appDesc": {
+      "message": "Universal Bypassは、迷惑な短縮リンクを回避します。コンプライアンスで時間を無駄にしないでください。"
+   },
+   "beforeNavigate": {
+      "message": "リンク先まであと少しです。"
+   },
+   "beforeNavigateDestination": {
+      "message": "リンク先: %"
+   },
+   "beforeNavigateInstant": {
+      "message": "% に移動しています"
+   },
+   "beforeNavigateOptions": {
+      "message": "すぐに、または数秒後にリダイレクトされるようにしたいですか?"
+   },
+   "beforeNavigateTimer": {
+      "message": "%秒後に自動的にリダイレクトされます。"
+   },
+   "beforeNavigateTimerSingular": {
+      "message": "1秒後に自動的にリダイレクトされます。"
+   },
+   "beforeNavigateUnsafe": {
+      "message": "ただし、今移動すると、サイトはUniversal Bypassを検出してしまいます。"
+   },
+   "beforeNavigateUnsafeTimer": {
+      "message": "あと%秒で検出されなくなります。"
+   },
+   "beforeNavigateUnsafeTimerSingular": {
+      "message": "あと1秒で検出されなくなります。"
+   },
+   "blockedSubtitle": {
+      "message": "悪意のある人があなたのIPアドレスをログできないようにする機能をオフにしたいですか?"
+   },
+   "blockedTitle": {
+      "message": "ユニバーサルバイパスにより、IPアドレスがログに記録されなくなりました。"
+   },
+   "bypassCounter": {
+      "message": "Universal Bypassは今までに%件のサイトをバイパスしています。"
+   },
+   "cancel": {
+      "message": "キャンセルする"
+   },
+   "changelog": {
+      "message": "変更履歴"
+   },
+   "contributors": {
+      "message": "貢献者"
+   },
+   "crowdBypassed": {
+      "message": "もう待つ必要はありません!"
+   },
+   "crowdBypassedIgnore": {
+      "message": "正しくありませんか?"
+   },
+   "crowdBypassedInfo": {
+      "message": "他のUniversal Bypassユーザーがこのページを訪れたことがあり、%に移動することを報告しています。"
+   },
+   "crowdBypassedOptions": {
+      "message": "これをすぐに新しいタブで開きますか、それともx秒で開きますか？"
+   },
+   "crowdBypassedTimer": {
+      "message": "%秒後に新しいタブで開きます。"
+   },
+   "crowdBypassedTimerSingular": {
+      "message": "1秒後に新しいタブで開きます。"
+   },
+   "crowdCloseTimer": {
+      "message": "このタブは%秒後に閉じられます。"
+   },
+   "crowdCloseTimerSingular": {
+      "message": "このタブは1秒後に閉じられます。"
+   },
+   "crowdDisabled": {
+      "message": "このサイトは、Crowd Bypassを有効にしているときのみバイパスできます。オプションからこの設定をオンにすることができます。"
+   },
+   "crowdWait": {
+      "message": "残念ながら、あなたはこのリンクの最初のアクセス者です。しばらくすれば、他のUniversal Bypassユーザーが待つ必要はなくなります。"
+   },
+   "definitionsVersion": {
+      "message": "バイパス定義"
+   },
+   "faq": {
+      "message": "よくある質問と回答(FAQ)"
+   },
+   "firstrunNoScript": {
+      "message": "NoScriptなどを使用しているようですが、Universal Bypassとは互換性がありません。"
+   },
+   "firstrunTitle": {
+      "message": "Universal Bypassをインストールしていただき、ありがとうございます!"
+   },
+   "infoFileHoster": {
+      "message": "残念ながら、ダウンロードサーバーはファイルのダウンロードが許可される前に待機していることを確認します。"
+   },
+   "infoOutdated": {
+      "message": "このサイトは、Universal Bypassの新しいバージョンでバイパスされます。"
+   },
+   "legalBattleInfo1": {
+      "message": "Linkvertiseが、Universal Bypassを訴えようとしています。"
+   },
+   "legalBattleInfo2": {
+      "message": "もしこの拡張機能のことを気に入っているのであれば、戦いがうまくいくように手伝っていただけませんか?"
+   },
+   "legalBattleInfo3": {
+      "message": "これについての詳しい情報は、"
+   },
+   "legalBattleInfo4": {
+      "message": "こちらへ"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "optionsBlockIPLoggers": {
+      "message": "バイパスできない場合はIPアドレスがログに記録されないように阻止する"
+   },
+   "optionsCrowdAutoClose": {
+      "message": "%秒後にクラウドソーシング先を含むタブを閉じる"
+   },
+   "optionsCrowdAutoOpen": {
+      "message": "%秒後に新しいタブでクラウドソーシング先を開く"
+   },
+   "optionsCrowdBypass": {
+      "message": "バイパスできない短縮urlの行き先を設定する"
+   },
+   "optionsEnabled": {
+      "message": "ウェブサイトのバイパスを有効にする"
+   },
+   "optionsInstantNavigationTrackers": {
+      "message": "すぐにトラッカーのリンク先へ移動する"
+   },
+   "optionsLink": {
+      "message": "オプションから変更できます。"
+   },
+   "optionsNavigationDelay": {
+      "message": "%秒後にリンク先へ移動する"
+   },
+   "optionsTrackerBypass": {
+      "message": "Apimon.deを使ってトラッカー (bit.ly や t.coなど) をバイパスする"
+   },
+   "optionsUserscripts": {
+      "message": "カスタムバイパス"
+   },
+   "optionsUserscriptsDescription": {
+      "message": "これは、開発者が独自のスクリプトを作成してサイトをバイパスするための高度な機能です。完成後、誰でも使えるように、GitHubに投稿してUniversal Bypassに追加することができます。"
+   },
+   "privacyPolicy": {
+      "message": "プライバシーポリシー"
+   },
+   "support": {
+      "message": "Universal Bypassに貢献する"
+   },
+   "update": {
+      "message": "アップデートを確認"
+   },
+   "updateNo": {
+      "message": "バイパス定義は最新です。"
+   },
+   "updateYes": {
+      "message": "バイパス定義は正常にダウンロードされました。"
+   },
+   "updating": {
+      "message": "バイパス定義をダウンロードしています..."
+   },
+   "version": {
+      "message": "バージョン"
+   }
+}

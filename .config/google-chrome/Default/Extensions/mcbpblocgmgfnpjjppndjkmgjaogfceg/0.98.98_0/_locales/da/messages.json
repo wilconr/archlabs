@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Om..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "Marker browser vindue og"
+   },
+   "action_capture_entire": {
+      "message": "Marker hele siden og"
+   },
+   "action_capture_entire_lite": {
+      "message": "Marker hele siden"
+   },
+   "action_capture_selection": {
+      "message": "Marker udsnit / del og"
+   },
+   "action_capture_selection_lite": {
+      "message": "Marker udsnit"
+   },
+   "action_capture_tabs": {
+      "message": "Marker alle faner og"
+   },
+   "action_capture_visible": {
+      "message": "Marker synlig del og"
+   },
+   "action_capture_visible_lite": {
+      "message": "Marker synlig del"
+   },
+   "action_copy": {
+      "message": "Kopier til skrivebord"
+   },
+   "action_edit": {
+      "message": "Rediger"
+   },
+   "action_email": {
+      "message": "E-Mail"
+   },
+   "action_enter_license": {
+      "message": "Skriv licens information"
+   },
+   "action_external": {
+      "message": "Åben i ekstern editor"
+   },
+   "action_install_native": {
+      "message": "Prøv avancerede muligheder"
+   },
+   "action_license_info": {
+      "message": "Licens information..."
+   },
+   "action_micsellaneous": {
+      "message": "Diverse"
+   },
+   "action_onenote": {
+      "message": "Send til OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Åben fra skrivebord"
+   },
+   "action_open_file": {
+      "message": "Åben fil"
+   },
+   "action_options": {
+      "message": "Muligheder"
+   },
+   "action_print": {
+      "message": "Print"
+   },
+   "action_register": {
+      "message": "Tilmeld"
+   },
+   "action_resume": {
+      "message": "Genoptag redigering"
+   },
+   "action_save": {
+      "message": "Gem"
+   },
+   "action_save_pdf": {
+      "message": "Gem som PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Gem som en PDF"
+   },
+   "action_support": {
+      "message": "Hjælp"
+   },
+   "action_switch_pro": {
+      "message": "Skift til Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Aktiver Pro indstillinger for at fortsætte..."
+   },
+   "action_upload": {
+      "message": "Upload"
+   },
+   "action_view_demo": {
+      "message": "Se demo"
+   },
+   "application_description": {
+      "message": "Tag fuldstændige webside skærmbilleder. Capture, edit og gem dem som PDF/JPEG/GIF/PNG, upload, print, send til OneNote, klippebord og email "
+   },
+   "application_title": {
+      "message": "Tag fuldstændige skærmbillede med FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Køb Pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "Kopier til skrivebord"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Lær hvordan"
+   },
+   "captured_get_free_button": {
+      "message": "Prøv det gratis"
+   },
+   "captured_print": {
+      "message": "Print"
+   },
+   "captured_print_button": {
+      "message": "Print"
+   },
+   "captured_recommend_us": {
+      "message": "Anbefal FireShot"
+   },
+   "captured_save_as_image": {
+      "message": "Gem som billede"
+   },
+   "captured_save_as_image_button": {
+      "message": "Gem som billede"
+   },
+   "captured_save_as_pdf": {
+      "message": "Gem som PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Gem skærmbillede"
+   },
+   "captured_saving_options": {
+      "message": "tilpas det"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Opsætte genvejstaster og fil indstillinger..."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Fange, mærke, print og gem bedre, rediger, upload, send til E-mail / OneNote eller eksporter til andet program."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Upgrader til FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Jeg brugte en anden version af FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Kan jeg få det tilbage?"
+   },
+   "enable_checkbox": {
+      "message": "Gøre det muligt"
+   },
+   "options_button_apply": {
+      "message": "Tilføj"
+   },
+   "options_button_save_close": {
+      "message": "Gem og luk"
+   },
+   "options_button_setup": {
+      "message": "Klik for start"
+   },
+   "options_label_and": {
+      "message": "og"
+   },
+   "options_label_capturing": {
+      "message": "Marker"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Luk fane efter gemning"
+   },
+   "options_label_customize_saving": {
+      "message": "Tilpas gemme muligheder"
+   },
+   "options_label_default_filename_template": {
+      "message": "Standard filnavn skabelon"
+   },
+   "options_label_default_folder": {
+      "message": "Standard opbevarings folder"
+   },
+   "options_label_default_folder_hint": {
+      "message": "En filsti i forhold til downloads-biblioteket, der indeholder den gemte fil, muligvis indeholdende undermapper. Absolutte stier, tomme stier og stier, der indeholder tilbage henvisninger \"..\" vil forårsage en fejl."
+   },
+   "options_label_editor_options": {
+      "message": "Redigerings muligheder"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integrer FireShot i genvejsmenu"
+   },
+   "options_label_file_settings": {
+      "message": "Fil indstillinger"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot muligheder"
+   },
+   "options_label_hotkey": {
+      "message": "Hotkeys"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Sidst udførte handling"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Vis ikke \"Gem som\" dialogen"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Vis gemte filer i dets folder efter at være gemt"
+   },
+   "options_label_save_image_as": {
+      "message": "Gem billede som"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Specificere redigerings- og gemmeindstillinger, præferencer for filnavngivning, stilarter, mv."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Specificer genvejs kombinationer til at starte FireShot"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Specificer størrelses muligheder og lyde. "
+   },
+   "options_label_template_day": {
+      "message": "Dag"
+   },
+   "options_label_template_hour": {
+      "message": "Time"
+   },
+   "options_label_template_limit_1": {
+      "message": "Begrænset filnavns længde til"
+   },
+   "options_label_template_limit_2": {
+      "message": "karakterer"
+   },
+   "options_label_template_minutes": {
+      "message": "Minutter"
+   },
+   "options_label_template_month": {
+      "message": "Måned"
+   },
+   "options_label_template_pad_1": {
+      "message": "Pad nummer med"
+   },
+   "options_label_template_pad_2": {
+      "message": "nuller"
+   },
+   "options_label_template_seconds": {
+      "message": "Sekunder"
+   },
+   "options_label_template_title": {
+      "message": "Side titel"
+   },
+   "options_label_template_url": {
+      "message": "Side URL"
+   },
+   "options_label_template_website": {
+      "message": "Domæne navn"
+   },
+   "options_label_template_year": {
+      "message": "År"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Vis skabelonindstillinger for filnavn"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Skjul indstillinger for filnavnsskabelon"
+   }
+}

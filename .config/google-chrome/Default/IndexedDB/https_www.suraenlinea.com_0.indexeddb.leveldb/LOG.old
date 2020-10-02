@@ -1,0 +1,5 @@
+2020/06/30-13:28:08.745 2e2 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.suraenlinea.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/30-13:54:36.033 450 Level-0 table #5: started
+2020/06/30-13:54:36.086 450 Level-0 table #5: 1751 bytes OK
+2020/06/30-13:54:36.117 450 Delete type=0 #3
+2020/06/30-13:54:36.117 450 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

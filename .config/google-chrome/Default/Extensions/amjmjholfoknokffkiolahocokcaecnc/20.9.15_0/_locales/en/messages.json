@@ -1,0 +1,89 @@
+{
+   "attachments_title": {
+      "message": "Send Anywhere file attachments"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "cancel_info": {
+      "message": "Are you sure you want to cancel? Your friend will not be able to receive the file anymore."
+   },
+   "cancelled": {
+      "message": "Canceled"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "complete": {
+      "message": "Complete"
+   },
+   "download_link": {
+      "message": "Download link"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "extension_desc": {
+      "message": "Share large files up to 50GBs on Gmail/ Slack! More easy and efficient!"
+   },
+   "extension_name": {
+      "message": "Send Anywhere (For Gmail/Slack)"
+   },
+   "extension_short_name": {
+      "message": "Send Anywhere"
+   },
+   "fail": {
+      "message": "Fail"
+   },
+   "gmail_hover_title": {
+      "message": "Attach files with Send Anywhere"
+   },
+   "inprogress": {
+      "message": "In progress"
+   },
+   "key": {
+      "message": "Key"
+   },
+   "login_required": {
+      "message": "Sign in required"
+   },
+   "more_files": {
+      "message": "...$1 more files"
+   },
+   "no": {
+      "message": "No"
+   },
+   "noti_copy": {
+      "message": "Copied to clipboard"
+   },
+   "pdf_always_close": {
+      "message": "Always block"
+   },
+   "pdf_now_close": {
+      "message": "Block this time"
+   },
+   "pdf_option_desc": {
+      "message": "Are you going to deactivate\u003Cbr/>\u003Cstrong>share with\u003Cbr/> Send Anywhere\u003C/strong>?"
+   },
+   "sa": {
+      "message": "Send Anywhere"
+   },
+   "slack_first_popup_desc": {
+      "message": "Now you can send large files with Send Anywhere. Try it now!"
+   },
+   "try_it_now": {
+      "message": "Try it now"
+   },
+   "upload_image": {
+      "message": "Image share with Send Anywhere"
+   },
+   "upload_pdf": {
+      "message": "PDF share with Send Anywhere"
+   },
+   "view_detail": {
+      "message": "View detail"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

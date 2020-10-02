@@ -1,0 +1,89 @@
+{
+   "attachments_title": {
+      "message": "Send Anywhere File Attachments"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "cancel_info": {
+      "message": "업로드를 취소하시겠습니까? 취소 후에는 상대방이 공유된 링크로 파일을 다운로드 할 수 없습니다."
+   },
+   "cancelled": {
+      "message": "취소됨"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "complete": {
+      "message": "완료"
+   },
+   "download_link": {
+      "message": "Download Link"
+   },
+   "error": {
+      "message": "에러"
+   },
+   "extension_desc": {
+      "message": "Gmail/Slack에서 한 번에 최대 50GB까지 대용량 파일 쉽고 간편하게 공유하세요."
+   },
+   "extension_name": {
+      "message": "Send Anywhere (For Gmail/Slack)"
+   },
+   "extension_short_name": {
+      "message": "Send Anywhere"
+   },
+   "fail": {
+      "message": "업로드 실패"
+   },
+   "gmail_hover_title": {
+      "message": "Send Anywhere로 파일 첨부"
+   },
+   "inprogress": {
+      "message": "진행 중"
+   },
+   "key": {
+      "message": "키"
+   },
+   "login_required": {
+      "message": "로그인 후 이용할 수 있습니다."
+   },
+   "more_files": {
+      "message": "...$1 more files"
+   },
+   "no": {
+      "message": "아니오"
+   },
+   "noti_copy": {
+      "message": "클립보드에 복사되었습니다!"
+   },
+   "pdf_always_close": {
+      "message": "항상 닫기"
+   },
+   "pdf_now_close": {
+      "message": "이번에만 닫기"
+   },
+   "pdf_option_desc": {
+      "message": "\u003Cstrong>Send Anywhere로\u003Cbr/>PDF 공유\u003C/strong> 버튼을\u003Cbr/>비활성화 하시겠습니까?"
+   },
+   "sa": {
+      "message": "Send Anywhere"
+   },
+   "slack_first_popup_desc": {
+      "message": "Send Anywhere로 대용량 파일을 공유해보세요!"
+   },
+   "try_it_now": {
+      "message": "Try it now"
+   },
+   "upload_image": {
+      "message": "Send Anywhere로 이미지 공유"
+   },
+   "upload_pdf": {
+      "message": "Send Anywhere로 PDF 공유"
+   },
+   "view_detail": {
+      "message": "상세보기"
+   },
+   "yes": {
+      "message": "네"
+   }
+}

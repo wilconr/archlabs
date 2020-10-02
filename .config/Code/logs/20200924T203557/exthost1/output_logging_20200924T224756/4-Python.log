@@ -1,0 +1,119 @@
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'AA_testing - experiment'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - control'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonTipPromptWording'
+> conda --version
+> conda info --json
+> pyenv root
+> python3.7 ~/.vscode/extensions/ms-python.python-2020.9.111407/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode/extensions/ms-python.python-2020.9.111407/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.9.111407/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode/extensions/ms-python.python-2020.9.111407/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.9.111407/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.9.111407/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Starting Microsoft Python language server.
+Python interpreter path: ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.9.111407/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python ~/.vscode/extensions/ms-python.python-2020.9.111407/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Error 2020-09-24 22:48:03: Listing Nuget Packages, Class name = d, completed in 2332ms, has a falsy return value, Arg 1: "https://pvsc.blob.core.windows.net", Arg 2: "python-language-server-stable", Arg 3: "Python-Language-Server-linux-x64", Arg 4: "https://pvsc.azureedge.net", Arg 5: <Uri:/home/wilmer/PythonProjects/cli/main.py>, Return Value: undefined [Error: getaddrinfo EAI_AGAIN pvsc.blob.core.windows.net
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)] {
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'pvsc.blob.core.windows.net'
+}
+Error 2020-09-24 22:48:03: Get latest language server nuget package version, Class name = d, completed in 2336ms, has a falsy return value, Arg 1: <Uri:/home/wilmer/PythonProjects/cli/main.py>, Arg 2: "0.5.30", Return Value: undefined [Error: getaddrinfo EAI_AGAIN pvsc.blob.core.windows.net
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)] {
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'pvsc.blob.core.windows.net'
+}
+Error 2020-09-24 22:48:03: Get latest version of language server, Class name = f, completed in 2336ms, has a falsy return value, Arg 1: <Uri:/home/wilmer/PythonProjects/cli/main.py>, Return Value: undefined [Error: getaddrinfo EAI_AGAIN pvsc.blob.core.windows.net
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)] {
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'pvsc.blob.core.windows.net'
+}
+Error 2020-09-24 22:48:03: Get language server folder name, Class name = f, completed in 3110ms, has a falsy return value, Arg 1: <Uri:/home/wilmer/PythonProjects/cli/main.py>, Return Value: undefined [TypeError: Cannot read property 'version' of undefined
+	at u.getLanguageServerFolderName (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:24:193095)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2020-09-24 22:48:03: Failed to activate language server, Class name = a, completed in 3120ms, has a falsy return value, Arg 1: <Uri:/home/wilmer/PythonProjects/cli/main.py>, Arg 2: {"architecture":3,"path":"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.8.5-final","major":3,"minor":8,"patch":5,"prerelease":["final"],"build":[],"version":"3.8.5-final"},"sysPrefix":"/home/wilmer/.local/share/virtualenvs/PythonProjects-F28W4x1O","fileHash":"9f4b15177d19da5a6a8919ac2e5a2de8f47631bfaf9e429cabb0ada104700951915d30202a9091294c091f2266be7a4eddd31ff2b5392bf857bd1e8d6d667af0","type":"PipEnv","pipEnvWorkspaceFolder":"/home/wilmer/PythonProjects","envName":"PythonProjects","displayName":"Python 3.8.5 64-bit ('PythonProjects': pipenv)"}, Return Value: undefined [TypeError: Cannot read property 'version' of undefined
+	at u.getLanguageServerFolderName (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:24:193095)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+We encountered an issue starting the language server. Reverting to Jedi language engine. Check the Python output panel for details.
+Error 2020-09-24 22:48:03: Failed to activate a workspace, Class name = y, completed in 6277ms, has a falsy return value, Arg 1: <Uri:/home/wilmer/PythonProjects/cli/main.py>, Return Value: undefined [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:258487
+	at m (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:258784)
+	at e (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:259275)
+	at Object.t.plan (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:259938)
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:256591
+	at e._get (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:256500)
+	at e.getTagged (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:255302)
+	at e.getNamed (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:255394)
+	at a.get (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:56:1063072)
+	at C.createRefCountedServer (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:304090)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async C.activate (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:301732)
+	at async Promise.all (index 4)
+	at async y.activateWorkspace (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:296814)]
+Error 2020-09-24 22:48:03: Failure during activation. [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:258487
+	at m (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:258784)
+	at e (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:259275)
+	at Object.t.plan (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:259938)
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:256591
+	at e._get (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:256500)
+	at e.getTagged (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:255302)
+	at e.getNamed (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:255394)
+	at a.get (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:56:1063072)
+	at C.createRefCountedServer (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:304090)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async C.activate (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:301732)
+	at async Promise.all (index 4)
+	at async y.activateWorkspace (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:296814)]
+Error 2020-09-24 22:48:03: sendStartupTelemetry() failed. [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:258487
+	at m (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:258784)
+	at e (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:259275)
+	at Object.t.plan (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:259938)
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:256591
+	at e._get (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:256500)
+	at e.getTagged (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:255302)
+	at e.getNamed (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:255394)
+	at a.get (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:56:1063072)
+	at C.createRefCountedServer (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:304090)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async C.activate (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:301732)
+	at async Promise.all (index 4)
+	at async y.activateWorkspace (/home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension.js:47:296814)]
+Error 2020-09-24 22:48:08: Failed to download and store experiments, Class name = b, completed in 11120ms, has a falsy return value, , Return Value: undefined [Error: getaddrinfo EAI_AGAIN raw.githubusercontent.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)] {
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'raw.githubusercontent.com'
+}
+Error 2020-09-24 22:48:08: Failed to initialize experiments, Class name = b, completed in 11122ms, has a falsy return value, , Return Value: undefined [Error: getaddrinfo EAI_AGAIN raw.githubusercontent.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)] {
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'raw.githubusercontent.com'
+}

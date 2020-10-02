@@ -1,0 +1,1 @@
+{"data/CO":"timestamp=1589561792\nchecksum=e0b6480ee73bc8becc5ec4374bed9771\n{\"data/CO\":{\"key\":\"CO\",\"posturl\":\"http://www.codigopostal.gov.co/\",\"zipex\":\"111221,130001,760011\",\"name\":\"COLOMBIA\",\"zip\":\"\\\\d{6}\",\"state_name_type\":\"department\",\"id\":\"data/CO\",\"fmt\":\"%N%n%O%n%A%n%C, %S, %Z\",\"require\":\"AS\"}}"}

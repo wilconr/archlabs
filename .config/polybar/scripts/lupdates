@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#urxvt -e "sudo pacman -Syu"
+
+urxvt -e "yay"
+

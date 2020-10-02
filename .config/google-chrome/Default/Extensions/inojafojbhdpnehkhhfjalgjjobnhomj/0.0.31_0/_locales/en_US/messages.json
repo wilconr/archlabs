@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "Add to exception list"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Disposable Temporary Email"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Change"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "CHECK MAIL"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Copy"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Forms autofill button"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Inbox"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "unread message(s)"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "You have new mail"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "No, thanks"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Paste Temp Mail address"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "QR code"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Rate Us"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "If you love our app, please take a moment to rate it in web store."
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "Remove from exception list"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Share us"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Thank you"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Wait a moment"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Your Temporary Email address"
+   }
+}

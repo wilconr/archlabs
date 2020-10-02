@@ -1,0 +1,167 @@
+{
+   "appDesc": {
+      "message": "No perdis el teu temps amb la conformitat. Universal Bypass se salta automàticament molests escurçadors d'enllaços."
+   },
+   "beforeNavigate": {
+      "message": "Casi has arribat al teu destí."
+   },
+   "beforeNavigateDestination": {
+      "message": "El teu destí és %"
+   },
+   "beforeNavigateInstant": {
+      "message": "Estàs essent navegat a %"
+   },
+   "beforeNavigateOptions": {
+      "message": "Vols èsser redirigit automàticament on en x segons?"
+   },
+   "beforeNavigateTimer": {
+      "message": "Seràs redirigit automàticament en % segons."
+   },
+   "beforeNavigateTimerSingular": {
+      "message": "Seràs redirigit automàticament en 1 segon."
+   },
+   "beforeNavigateUnsafe": {
+      "message": "Però, si hi vas ara, detectaran que utilitzes Universal Bypass."
+   },
+   "beforeNavigateUnsafeTimer": {
+      "message": "No ho detectaran en % segons."
+   },
+   "beforeNavigateUnsafeTimerSingular": {
+      "message": "No ho detectaran en 1 segon."
+   },
+   "blockedSubtitle": {
+      "message": "Vols que Universal Bpass eviti que persones malèfiques tinguin el teu IP?"
+   },
+   "blockedTitle": {
+      "message": "Universal Bypass ha impedit que la seva adreça IP es registrés."
+   },
+   "bypassCounter": {
+      "message": "Universal Bypass ha omès % pàgines per tu."
+   },
+   "cancel": {
+      "message": "Cancel·lar."
+   },
+   "changelog": {
+      "message": "Registre de canvis"
+   },
+   "contributors": {
+      "message": "Contribuïdors"
+   },
+   "crowdBypassed": {
+      "message": "Potser que no hagis d'esperar!"
+   },
+   "crowdBypassedIgnore": {
+      "message": "Això no era correcte?"
+   },
+   "crowdBypassedInfo": {
+      "message": "Altres usuaris de Universal Bypass ja han esperat per tu i han informat que això porta a %"
+   },
+   "crowdBypassedOptions": {
+      "message": "Vols obrir-ho en una nova pestanya o en  x segons?"
+   },
+   "crowdBypassedTimer": {
+      "message": "Aquesta pàgina serà oberta en una nova pestanya en % segons."
+   },
+   "crowdBypassedTimerSingular": {
+      "message": "Aquesta pàgina serà oberta en una nova pestanya en 1 segon."
+   },
+   "crowdCloseTimer": {
+      "message": "Aquesta pàgina es tancarà en % segons."
+   },
+   "crowdCloseTimerSingular": {
+      "message": "Aquesta pàgina es tancarà en 1 segon."
+   },
+   "crowdDisabled": {
+      "message": "Aquesta pàgina es redirigida mitjançant el bypass comunitari, que ho has desactivat a opcions."
+   },
+   "crowdWait": {
+      "message": "Desafortunadament, aquesta és la primera vegada que es troba aquest link, però després de que haguis esperat, la resta d'usuaris d'Universal Bypass no ho hauran de fer"
+   },
+   "definitionsVersion": {
+      "message": "Diccionari d'omissions"
+   },
+   "faq": {
+      "message": "Preguntes més freqüents (FAQ)"
+   },
+   "firstrunNoScript": {
+      "message": "Però, sembla que estàs utilitzant NoScript o similar, amb la qual Universal Bypass no és compatible."
+   },
+   "firstrunTitle": {
+      "message": "Gràcies per instal·lar Universal Bypass!"
+   },
+   "infoFileHoster": {
+      "message": "Desafotunadament, el servidor de descàrregues s'assegurarà que has esperat abans de permitir-te descarregar el fitxer."
+   },
+   "infoOutdated": {
+      "message": "La pàgina és omesa mitjançant la nova versió de Universal Bypass."
+   },
+   "legalBattleInfo1": {
+      "message": "Linkvertise vol demandar a Universal Bypass."
+   },
+   "legalBattleInfo2": {
+      "message": "Si t'agrada aquesta extensió, ajuda'm amb aquesta bona causa."
+   },
+   "legalBattleInfo3": {
+      "message": "Si t'agradaría aprendre més sobre això,"
+   },
+   "legalBattleInfo4": {
+      "message": "aquí hi ha més informació"
+   },
+   "options": {
+      "message": "Opcions"
+   },
+   "optionsBlockIPLoggers": {
+      "message": "Bloqueja registradors d'adreces IP si no poden circumval·lar-se."
+   },
+   "optionsCrowdAutoClose": {
+      "message": "Tancar la pestanya amb el destí d'origen públic després de % segon(s) de visitar-la."
+   },
+   "optionsCrowdAutoOpen": {
+      "message": "Obrir un destí d'origen públic en una nova pestanya després de % segon(s)."
+   },
+   "optionsCrowdBypass": {
+      "message": "Comparteix i rep la destinació de escurçadors no circumval·lables."
+   },
+   "optionsEnabled": {
+      "message": "Activa omissió de pàgines web."
+   },
+   "optionsInstantNavigationTrackers": {
+      "message": "Porta'm instantàniament a les destinacions dels seguidors."
+   },
+   "optionsLink": {
+      "message": "Canvia les opcions de Universal Bypass."
+   },
+   "optionsNavigationDelay": {
+      "message": "Redirecciona'm després de % segon(s)."
+   },
+   "optionsTrackerBypass": {
+      "message": "Rastregador d'omissionas (com bit.ly i t.co) mitjançant Apimon.de."
+   },
+   "optionsUserscripts": {
+      "message": "Circumval·lacions personalitzades"
+   },
+   "optionsUserscriptsDescription": {
+      "message": "Aquesta és una funcionalitat avançada per a que els desenvolupadors crein els seus propis scripts per a omitir pàgines. Una vegada perfeccionat, poden èsser enviats a GitHub per a èsser afegits a Universal Bypass, essent aixi disponibles per a tot el món."
+   },
+   "privacyPolicy": {
+      "message": "Política de privacitat"
+   },
+   "support": {
+      "message": "Contribueix amb Universal Bypass."
+   },
+   "update": {
+      "message": "Comprovar actualitzacions"
+   },
+   "updateNo": {
+      "message": "Diccionari d'omissions actualitzat"
+   },
+   "updateYes": {
+      "message": "Diccionari d'omissions descarregat satisfactòriament"
+   },
+   "updating": {
+      "message": "Descarregant el diccionari d'omissions"
+   },
+   "version": {
+      "message": "Versió"
+   }
+}

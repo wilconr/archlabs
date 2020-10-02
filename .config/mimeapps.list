@@ -1,0 +1,20 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/postman=Postman.desktop
+application/pdf=xreader.desktop
+text/plain=nvim.desktop
+application/vnd.ms-publisher=nvim.desktop
+
+[Added Associations]
+application/x-desktop=geany.desktop;
+application/octet-stream=mousepad.desktop;
+application/x-trash=mousepad.desktop;
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
+application/pdf=xreader.desktop;
+text/plain=nvim.desktop;
+application/vnd.ms-publisher=nvim.desktop;

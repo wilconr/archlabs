@@ -1,0 +1,68 @@
+{
+   "appDesc": {
+      "message": "אל תבזבז את הזמן שלך! Universal Bypass מדלג אוטומטית על מקצרי לינקים מעצבנים."
+   },
+   "beforeNavigateDestination": {
+      "message": "כתובת היעד שלך היא %"
+   },
+   "beforeNavigateTimer": {
+      "message": "תועבר אוטומטית עוד % שניות."
+   },
+   "beforeNavigateTimerSingular": {
+      "message": "תועבר אוטומטית בעוד שנייה."
+   },
+   "bypassCounter": {
+      "message": "מעקף אוניברסלי כבר עקף % אתרים בשבילך."
+   },
+   "changelog": {
+      "message": "רשימת שינויים"
+   },
+   "crowdBypassed": {
+      "message": "יתכן ואתה לא צריך להמתין בכלל!"
+   },
+   "crowdBypassedIgnore": {
+      "message": "האם נתיב זה שגוי?"
+   },
+   "crowdBypassedInfo": {
+      "message": "משתמשים נוספים כבר המתינו, ודיווחו שהקישור מוביל ל- %"
+   },
+   "faq": {
+      "message": "שאלות נפוצות (FAQ)"
+   },
+   "firstrunNoScript": {
+      "message": "ככול הנראה אתה עושה שימוש ב-NoScript ודומיו, מה שלא מאפשר את פעולת Universal Bypass."
+   },
+   "firstrunTitle": {
+      "message": "תודה לך על כך שהתקנת את Universal Bypass!"
+   },
+   "options": {
+      "message": "הגדרות"
+   },
+   "optionsBlockIPLoggers": {
+      "message": "חסום אוספי IP אם אי אפשר לעקוף אותם."
+   },
+   "optionsEnabled": {
+      "message": "הפעל מעקף לאתר."
+   },
+   "optionsInstantNavigationTrackers": {
+      "message": "העבר אותי למקור אוטומטית."
+   },
+   "optionsLink": {
+      "message": "הגדר את Universal Bypass."
+   },
+   "optionsNavigationDelay": {
+      "message": "קח אותי ליעד אחרי % שני(ות). (השתמש ב0 על מנת לנווט במיידי)"
+   },
+   "optionsUserscripts": {
+      "message": "מעקפים מותאמים אישית"
+   },
+   "privacyPolicy": {
+      "message": "מדיניות פרטיות"
+   },
+   "support": {
+      "message": "תמוך ב-Universal Bypass"
+   },
+   "version": {
+      "message": "גרסה"
+   }
+}

@@ -1,0 +1,5 @@
+2020/08/04-13:23:08.599 211b Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.rottentomatoes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/04-13:23:42.041 1bd7 Level-0 table #5: started
+2020/08/04-13:23:42.165 1bd7 Level-0 table #5: 1136 bytes OK
+2020/08/04-13:23:42.568 1bd7 Delete type=0 #3
+2020/08/04-13:23:42.569 1bd7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

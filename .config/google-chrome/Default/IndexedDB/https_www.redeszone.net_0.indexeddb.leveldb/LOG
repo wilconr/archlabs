@@ -1,0 +1,5 @@
+2020/08/09-17:44:55.196 12697 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.redeszone.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/09-17:46:09.686 52d Level-0 table #5: started
+2020/08/09-17:46:09.750 52d Level-0 table #5: 33519 bytes OK
+2020/08/09-17:46:09.788 52d Delete type=0 #3
+2020/08/09-17:46:09.789 52d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

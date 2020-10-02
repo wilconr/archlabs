@@ -1,0 +1,7 @@
+/*
+ FireShot - Webpage Screenshots and Annotations
+ Copyright (C) 2007-2020 Evgeny Suslikov (evgeny@suslikov.ru)
+*/
+var fsPlugin={port:void 0,inited:!1,captures:void 0,init:function(){this.inited=!0},launchFunction:function(a,b){"captureInit"==a?this.captureInit(b):"captureTabPNG"==a?this.captureTabPNG(b):"captureDone"==a&&this.loadImages(b,this.captureDone)},captureInit:function(a){this.captures=[];this.imagesLoaded=0},captureTabPNG:function(a){this.captures.push(a)},loadImages:function(a,b){var f=this.captures.length,g=function(b,d){return function(){e[b].dataurl="";e[b].img=d;0===--f&&fsPlugin.captureDone(a)}};
+for(b=0;b<this.captures.length;++b){var d=new Image,e=this.captures;d.onload=g(b,d);d.src=e[b].dataurl}},captureDone:function(a){var b=a.width,f=a.height,g=a.crop,d=a.cropLeft||0,e=a.cropTop||0,r=a.cropRight||0,t=a.cropBottom||0,p=0,q=0,h=0,k=0,c;for(c=0;c<this.captures.length;++c)h=Math.max(h,this.captures[c].x),k=Math.max(k,this.captures[c].y);this.pBitmapForChrome=document.createElement("canvas");for(c=0;c<this.captures.length;++c){var l=this.captures[c].x,m=this.captures[c].y,n=this.captures[c].img;
+0===c&&(p=l,q=m,b=Math.min(b,h+n.width),f=Math.min(f,k+n.height),this.pBitmapForChrome.width=Math.max(1,g?r-d:b),this.pBitmapForChrome.height=Math.max(1,g?t-e:f));l-=p;m-=q;this.pBitmapForChrome.getContext("2d").drawImage(n,l-d,m-e)}capResult=this.pBitmapForChrome;capLinks=a.links;capResultFileNameLite=getFilenameLite();chrome.tabs.create({url:"fsCaptured.html"})}};function getJSPlugin(){fsPlugin.inited||fsPlugin.init();return fsPlugin};

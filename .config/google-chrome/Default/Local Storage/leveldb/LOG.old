@@ -1,0 +1,17 @@
+2020/10/02-13:54:36.719 1283 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/10/02-13:54:36.748 1283 Recovering log #2039
+2020/10/02-13:54:37.093 1283 Reusing old log /home/wilmer/.config/google-chrome/Default/Local Storage/leveldb/002039.log 
+2020/10/02-13:58:30.797 1a4b Level-0 table #2043: started
+2020/10/02-13:58:30.905 1a4b Level-0 table #2043: 15424 bytes OK
+2020/10/02-13:58:30.939 1a4b Delete type=0 #2039
+2020/10/02-13:58:30.939 1a4b Compacting 4@0 + 2@1 files
+2020/10/02-13:58:31.258 1a4b Generated table #2044@0: 4528 keys, 2760567 bytes
+2020/10/02-13:58:31.314 1a4b Generated table #2045@0: 342 keys, 36075 bytes
+2020/10/02-13:58:31.314 1a4b Compacted 4@0 + 2@1 files => 2796642 bytes
+2020/10/02-13:58:31.355 1a4b compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/10/02-13:58:31.356 1a4b Delete type=2 #2043
+2020/10/02-13:58:31.357 1a4b Delete type=2 #2033
+2020/10/02-13:58:31.357 1a4b Delete type=2 #2038
+2020/10/02-13:58:31.357 1a4b Delete type=2 #2040
+2020/10/02-13:58:31.357 1a4b Delete type=2 #2034
+2020/10/02-13:58:31.357 1a4b Delete type=2 #2036

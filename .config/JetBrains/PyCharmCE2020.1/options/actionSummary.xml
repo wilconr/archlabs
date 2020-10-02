@@ -1,0 +1,123 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Copy">
+        <ActionSummary times="1" last="1592098536984" />
+      </entry>
+      <entry key="$Delete">
+        <ActionSummary times="1" last="1593644297199" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="8" last="1590195004470" />
+      </entry>
+      <entry key="ChooseRunConfiguration">
+        <ActionSummary times="1" last="1590191605427" />
+      </entry>
+      <entry key="CodeCompletion">
+        <ActionSummary times="6" last="1593644284008" />
+      </entry>
+      <entry key="EditCustomProperties">
+        <ActionSummary times="1" last="1590192150079" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="62" last="1592098853637" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="42" last="1593644268784" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="2" last="1592105252316" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="2" last="1590195016387" />
+      </entry>
+      <entry key="EditorDelete">
+        <ActionSummary times="16" last="1592098961377" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="42" last="1590247648201" />
+      </entry>
+      <entry key="EditorDownWithSelection">
+        <ActionSummary times="2" last="1590195013498" />
+      </entry>
+      <entry key="EditorDuplicate">
+        <ActionSummary times="5" last="1590194995963" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="30" last="1593644261591" />
+      </entry>
+      <entry key="EditorEscape">
+        <ActionSummary times="1" last="1590193281277" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="59" last="1592105013802" />
+      </entry>
+      <entry key="EditorLineEnd">
+        <ActionSummary times="7" last="1590195027292" />
+      </entry>
+      <entry key="EditorLineEndWithSelection">
+        <ActionSummary times="3" last="1590195014945" />
+      </entry>
+      <entry key="EditorLineStart">
+        <ActionSummary times="3" last="1590247629313" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="6" last="1593644257675" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="21" last="1592105013280" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="9" last="1590195080305" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="23" last="1590247651536" />
+      </entry>
+      <entry key="MethodDown">
+        <ActionSummary times="4" last="1590194855141" />
+      </entry>
+      <entry key="MethodUp">
+        <ActionSummary times="1" last="1590194851452" />
+      </entry>
+      <entry key="MoveLineUp">
+        <ActionSummary times="16" last="1590195001612" />
+      </entry>
+      <entry key="MoveStatementUp">
+        <ActionSummary times="1" last="1590194846789" />
+      </entry>
+      <entry key="NewPythonFile">
+        <ActionSummary times="2" last="1593644190430" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="1" last="1592098338594" />
+      </entry>
+      <entry key="QuickDocCopy">
+        <ActionSummary times="1" last="1590193259124" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="4" last="1590191755691" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="1" last="1590247667968" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="5" last="1590247562482" />
+      </entry>
+      <entry key="Switcher">
+        <ActionSummary times="1" last="1590192826618" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$6">
+        <ActionSummary times="2" last="1590191132385" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="2" last="1592098419478" />
+      </entry>
+      <entry key="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
+        <ActionSummary times="1" last="1592098405066" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="1" last="1590192092580" />
+      </entry>
+    </data>
+  </component>
+</application>

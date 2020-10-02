@@ -1,0 +1,8 @@
+2020/09/23-17:11:57.399 9e00 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/23-17:11:57.399 9e00 Recovering log #11
+2020/09/23-17:11:57.399 9e00 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/000011.log 
+2020/09/23-17:11:59.449 11d5 Level-0 table #15: started
+2020/09/23-17:11:59.449 11d5 Level-0 table #15: 0 bytes OK
+2020/09/23-17:11:59.498 11d5 Delete type=0 #11
+2020/09/23-17:11:59.498 11d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/23-17:11:59.498 11d5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

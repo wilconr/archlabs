@@ -1,0 +1,69 @@
+00:00:00.036184 main     VirtualBox XPCOM Server 6.1.12 r139181 linux.amd64 (Jul 22 2020 20:05:29) release log
+00:00:00.036192 main     Log opened 2020-08-03T17:36:45.075726000Z
+00:00:00.036194 main     Build Type: release
+00:00:00.036201 main     OS Product: Linux
+00:00:00.036205 main     OS Release: 5.7.10-arch1-1
+00:00:00.036209 main     OS Version: #1 SMP PREEMPT Wed, 22 Jul 2020 19:57:42 +0000
+00:00:00.036281 main     DMI Product Name: Dell System Inspiron N4110
+00:00:00.036342 main     DMI Product Version: 
+00:00:00.036368 main     Firmware type: BIOS
+00:00:00.036466 main     Host RAM: 7873MB (7.6GB) total, 5846MB (5.7GB) available
+00:00:00.036475 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.036476 main     Process ID: 20840
+00:00:00.036478 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.041440 main     IPC socket path: /tmp/.vbox-root-ipc/ipcd
+00:00:00.191084 nspr-2   VirtualBox: object creation starts
+00:00:00.191412 nspr-2   Home directory: '/home/wilmer/.config/VirtualBox'
+00:00:00.207530 nspr-2   Loading settings file "/home/wilmer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.270534 nspr-2   USB: Unknown USB device detected (idVendor: 0x8086, idProduct: 0x0189)
+00:00:00.271032 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.317560 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.334408 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet8: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.337462 nspr-2   HostDnsMonitor: initializing
+00:00:00.338293 nspr-2   NAT: resolv.conf: nameserver 10.10.100.1
+00:00:00.338360 nspr-2   HostDnsMonitor: updating information
+00:00:00.338407 nspr-2   HostDnsMonitor: old information
+00:00:00.338438 nspr-2     no server entries
+00:00:00.338451 nspr-2     no domain set
+00:00:00.338461 nspr-2     no search string entries
+00:00:00.338472 nspr-2   HostDnsMonitor: new information
+00:00:00.338481 nspr-2     server 1: 10.10.100.1
+00:00:00.338493 nspr-2     no domain set
+00:00:00.338503 nspr-2     no search string entries
+00:00:00.519267 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.520982 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.684329 nspr-2   Loading settings file "/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/archlabs/archlabs.vbox" with version "1.16-linux"
+00:00:00.751410 nspr-2   Loading settings file "/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/Endeavour/Endeavour.vbox" with version "1.16-linux"
+00:00:00.820326 nspr-2   Loading settings file "/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/ParrotOs/ParrotOs.vbox" with version "1.17-linux"
+00:00:00.885984 nspr-2   Loading settings file "/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/Ubuntu20.04/Ubuntu20.04.vbox" with version "1.16-linux"
+00:00:00.959544 nspr-2   OCI: Local config file '/home/wilmer/.config/VirtualBox/oci_config' does not exist
+00:00:00.959661 nspr-2   OCI: Original config file '/root/.oci/config' does not exist
+00:00:00.959678 nspr-2   OCI: Reading profiles finished with status NS_OK
+00:00:00.959704 nspr-2   ExtPack: Created cloud provider 'OCI' (hrc=NS_OK)
+00:00:00.959803 nspr-2   VirtualBox: object created
+00:00:58.666363 nspr-6   Launched VM: 1409294208 pid: 20966 (0x51e6) frontend: GUI/Qt name: archlabs
+00:01:02.623965 nspr-2   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:01:03.159415 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:03.381317 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:03.439972 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:01:03.457657 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet8: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:01:46.186687 nspr-2   Saving settings file "/home/wilmer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:46.323968 nspr-5   Saving settings file "/home/wilmer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:46.422003 nspr-3   Saving settings file "/home/wilmer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:46.490481 nspr-4   Saving settings file "/home/wilmer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:46.557618 nspr-3   Saving settings file "/home/wilmer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:44.935722 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:44.954762 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet8: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:45.013196 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:45.030497 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet8: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:04:50.765358 nspr-5   Saving settings file "/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/archlabs/archlabs.vbox" with version "1.16-linux"
+00:04:57.602476 main     VirtualBox: object deletion starts
+00:04:57.602599 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/archlabs/archlabs.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:04:57.603005 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/Endeavour/Endeavour.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:04:57.603301 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/ParrotOs/ParrotOs.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:04:57.603679 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/mnt/DATOS/MIS CARPETAS/MAQUINAS VIRTUALES/Ubuntu20.04/Ubuntu20.04.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:04:57.604679 main     HostDnsMonitor: shutting down ...
+00:04:57.610231 main     HostDnsMonitor: shut down
+00:04:57.780362 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:02.617051 main     {00007fc6580232c0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:05:02.618200 main     VirtualBox: object deleted

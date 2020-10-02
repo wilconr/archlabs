@@ -1,0 +1,19 @@
+2020/08/09-15:23:34.049 d34a Reusing MANIFEST /home/wilmer/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/08/09-15:23:34.216 d3f5 Level-0 table #5: started
+2020/08/09-15:23:34.271 d3f5 Level-0 table #5: 498 bytes OK
+2020/08/09-15:23:34.427 d3f5 Delete type=0 #3
+2020/08/09-15:23:34.427 d3f5 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/09-15:23:34.740 d3f5 Level-0 table #7: started
+2020/08/09-15:23:34.798 d3f5 Level-0 table #7: 476 bytes OK
+2020/08/09-15:23:34.843 d3f5 Delete type=0 #4
+2020/08/09-15:23:34.844 d3f5 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/09-15:24:55.972 d3f5 Level-0 table #9: started
+2020/08/09-15:24:56.027 d3f5 Level-0 table #9: 32032 bytes OK
+2020/08/09-15:24:56.066 d3f5 Delete type=0 #6
+2020/08/09-15:24:56.067 d3f5 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 2355 : 1
+2020/08/09-15:24:56.067 d3f5 Compacting 1@0 + 1@1 files
+2020/08/09-15:24:56.116 d3f5 Generated table #10@0: 1342 keys, 16000 bytes
+2020/08/09-15:24:56.116 d3f5 Compacted 1@0 + 1@1 files => 16000 bytes
+2020/08/09-15:24:56.153 d3f5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/09-15:24:56.154 d3f5 Delete type=2 #9
+2020/08/09-15:24:56.154 d3f5 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 2355 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

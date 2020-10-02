@@ -1,0 +1,5 @@
+2020/06/15-12:19:24.334 f5a Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_novedades-co.falabella.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/15-13:23:06.325 487 Level-0 table #5: started
+2020/06/15-13:23:06.368 487 Level-0 table #5: 18026 bytes OK
+2020/06/15-13:23:06.410 487 Delete type=0 #3
+2020/06/15-13:23:06.411 487 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

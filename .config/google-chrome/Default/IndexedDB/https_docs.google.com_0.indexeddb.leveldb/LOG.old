@@ -1,0 +1,8 @@
+2020/10/02-17:14:20.183 4b3a Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/02-17:14:20.185 4b3a Recovering log #753
+2020/10/02-17:14:20.185 4b3a Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000753.log 
+2020/10/02-17:14:38.489 dc5 Level-0 table #757: started
+2020/10/02-17:14:38.489 dc5 Level-0 table #757: 0 bytes OK
+2020/10/02-17:14:38.621 dc5 Delete type=0 #753
+2020/10/02-17:14:38.622 dc5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/02-17:14:38.622 dc5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

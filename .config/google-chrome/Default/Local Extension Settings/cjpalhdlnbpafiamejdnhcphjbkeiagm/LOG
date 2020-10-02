@@ -1,0 +1,29 @@
+2020/10/02-16:37:46.881 c4a Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2020/10/02-16:37:46.920 c4a Recovering log #445
+2020/10/02-16:37:47.423 c4a Reusing old log /home/wilmer/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000445.log 
+2020/10/02-16:41:05.845 f3d Level-0 table #449: started
+2020/10/02-16:41:06.274 f3d Level-0 table #449: 2860937 bytes OK
+2020/10/02-16:41:06.354 f3d Delete type=0 #445
+2020/10/02-16:41:06.359 f3d Compacting 4@0 + 3@1 files
+2020/10/02-16:41:06.732 f3d Generated table #450@0: 21 keys, 2334446 bytes
+2020/10/02-16:41:07.073 f3d Generated table #451@0: 14 keys, 2589826 bytes
+2020/10/02-16:41:07.349 f3d Generated table #452@0: 3 keys, 2861404 bytes
+2020/10/02-16:41:07.872 f3d Generated table #453@0: 32 keys, 1635854 bytes
+2020/10/02-16:41:07.872 f3d Compacted 4@0 + 3@1 files => 9421530 bytes
+2020/10/02-16:41:07.953 f3d compacted to: files[ 0 4 1 0 0 0 0 ]
+2020/10/02-16:41:07.955 f3d Delete type=2 #444
+2020/10/02-16:41:07.955 f3d Delete type=2 #446
+2020/10/02-16:41:07.955 f3d Delete type=2 #438
+2020/10/02-16:41:07.955 f3d Delete type=2 #439
+2020/10/02-16:41:07.955 f3d Delete type=2 #449
+2020/10/02-16:41:07.955 f3d Delete type=2 #437
+2020/10/02-16:41:07.956 f3d Delete type=2 #441
+2020/10/02-16:47:07.053 f3d Level-0 table #455: started
+2020/10/02-16:47:07.211 f3d Level-0 table #455: 1499281 bytes OK
+2020/10/02-16:47:07.249 f3d Delete type=0 #448
+2020/10/02-16:55:13.344 f3d Level-0 table #457: started
+2020/10/02-16:55:13.529 f3d Level-0 table #457: 1353103 bytes OK
+2020/10/02-16:55:13.609 f3d Delete type=0 #454
+2020/10/02-17:00:17.835 f3d Level-0 table #459: started
+2020/10/02-17:00:18.148 f3d Level-0 table #459: 2566438 bytes OK
+2020/10/02-17:00:18.192 f3d Delete type=0 #456

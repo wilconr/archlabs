@@ -1,0 +1,12 @@
+2020/10/02-16:37:49.871 c4a Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/MANIFEST-000001
+2020/10/02-16:37:49.922 c4a Recovering log #135
+2020/10/02-16:37:50.242 c4a Reusing old log /home/wilmer/.config/google-chrome/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/000135.log 
+2020/10/02-16:41:16.391 f3d Compacting 1@1 + 1@2 files
+2020/10/02-16:41:16.477 f3d Generated table #138@1: 6 keys, 13137 bytes
+2020/10/02-16:41:16.477 f3d Compacted 1@1 + 1@2 files => 13137 bytes
+2020/10/02-16:41:16.558 f3d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/02-16:41:16.559 f3d Delete type=2 #134
+2020/10/02-16:41:16.559 f3d Delete type=2 #136
+2020/10/02-16:44:52.165 f3d Level-0 table #140: started
+2020/10/02-16:44:52.319 f3d Level-0 table #140: 489394 bytes OK
+2020/10/02-16:44:52.414 f3d Delete type=0 #135

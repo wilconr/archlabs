@@ -1,0 +1,6 @@
+2020/10/02-13:54:38.210 1281 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/10/02-13:54:38.211 1281 Recovering log #322
+2020/10/02-13:54:38.362 1281 Reusing old log /home/wilmer/.config/google-chrome/Default/Sync Data/LevelDB/000322.log 
+2020/10/02-13:55:56.175 1554 Level-0 table #326: started
+2020/10/02-13:55:56.329 1554 Level-0 table #326: 102345 bytes OK
+2020/10/02-13:55:56.410 1554 Delete type=0 #322

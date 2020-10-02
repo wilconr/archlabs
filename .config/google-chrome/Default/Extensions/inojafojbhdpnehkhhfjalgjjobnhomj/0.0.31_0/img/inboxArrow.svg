@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="9px" viewBox="0 0 6 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon / arrow_small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Tempmail-Extension" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Temp-Mail_Extension" transform="translate(-1386.000000, -425.000000)">
+            <g id="Group-2" transform="translate(1120.000000, 85.000000)">
+                <g id="Inbox" transform="translate(13.000000, 316.000000)">
+                    <g id="icon-/-arrow_small" transform="translate(255.500000, 28.500000) rotate(-90.000000) translate(-255.500000, -28.500000) translate(250.000000, 25.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="11" height="8"></rect>
+                        <polyline id="Path-2" stroke="#CDCDD8" stroke-width="1.5" stroke-linecap="round" points="2 2 5.5 5.5 9 2"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

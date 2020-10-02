@@ -1,0 +1,5 @@
+2020/08/04-13:22:49.943 211b Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.hoopladigital.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/04-13:23:18.456 1bd7 Level-0 table #5: started
+2020/08/04-13:23:18.507 1bd7 Level-0 table #5: 2983 bytes OK
+2020/08/04-13:23:18.608 1bd7 Delete type=0 #3
+2020/08/04-13:23:18.608 1bd7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

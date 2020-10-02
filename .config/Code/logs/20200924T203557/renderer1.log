@@ -1,0 +1,19 @@
+[2020-09-24 20:36:16.830] [renderer1] [warning] UNRESPONSIVE extension host, 'CoenraadS.bracket-pair-colorizer-2' took 100% of 1123.255ms, saved PROFILE here: '/tmp/exthost-487ddf.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":1120124,"percentage":100},{"id":"formulahendry.terminal","total":987,"percentage":0},{"id":"gc","total":2004,"percentage":0}]
+[2020-09-24 21:06:29.792] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-24 21:06:31.458] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-24 21:36:19.759] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-24 21:36:21.432] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-24 22:06:20.020] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-24 22:06:21.445] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-24 22:36:19.764] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-24 22:36:21.432] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-24 23:17:58.609] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)

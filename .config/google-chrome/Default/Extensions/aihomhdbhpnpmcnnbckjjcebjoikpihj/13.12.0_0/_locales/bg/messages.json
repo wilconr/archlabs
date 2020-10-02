@@ -1,0 +1,167 @@
+{
+   "appDesc": {
+      "message": "Не си губете времето със спазването. Universal Bypass автоматично прескача досадни съкращения на връзки."
+   },
+   "beforeNavigate": {
+      "message": "Почти сте на местоназначението си."
+   },
+   "beforeNavigateDestination": {
+      "message": "Вашата дестинация е %"
+   },
+   "beforeNavigateInstant": {
+      "message": "Вие се придвижвате до%"
+   },
+   "beforeNavigateOptions": {
+      "message": "Искате ли да бъдете пренасочени незабавно или за х секунди?"
+   },
+   "beforeNavigateTimer": {
+      "message": "Ще бъдете пренасочени автоматично за% секунди."
+   },
+   "beforeNavigateTimerSingular": {
+      "message": "Ще бъдете пренасочени автоматично след 1 секунда."
+   },
+   "beforeNavigateUnsafe": {
+      "message": "Ако обаче навигирате сега, те ще открият Universal Bypass."
+   },
+   "beforeNavigateUnsafeTimer": {
+      "message": "Вече няма да бъдете открити за% секунди."
+   },
+   "beforeNavigateUnsafeTimerSingular": {
+      "message": "Вече няма да бъдете засечени след 1 секунда."
+   },
+   "blockedSubtitle": {
+      "message": "Не искате Universal Bypass да попречи на лошите хора да получат вашия IP адрес?"
+   },
+   "blockedTitle": {
+      "message": "Universal Bypass предотврати регистрирането на вашия IP адрес."
+   },
+   "bypassCounter": {
+      "message": "Универсалният Байпас вече е заобиколил % сайтове за вас."
+   },
+   "cancel": {
+      "message": "Отказ."
+   },
+   "changelog": {
+      "message": "Дневник на промените"
+   },
+   "contributors": {
+      "message": "Сътрудници"
+   },
+   "crowdBypassed": {
+      "message": "Може да не се наложи да чакате!"
+   },
+   "crowdBypassedIgnore": {
+      "message": "Не беше ли това правилно?"
+   },
+   "crowdBypassedInfo": {
+      "message": "Други потребители на Universal Bypass вече са чакали и съобщиха, че това води до %"
+   },
+   "crowdBypassedOptions": {
+      "message": "Искате ли това да се отвори в нов раздел незабавно или за х секунди?"
+   },
+   "crowdBypassedTimer": {
+      "message": "\tТова ще се отвори в нов раздел за% секунди."
+   },
+   "crowdBypassedTimerSingular": {
+      "message": "Това ще се отвори в нов раздел след 1 секунда."
+   },
+   "crowdCloseTimer": {
+      "message": "Този раздел ще се затвори за% секунди."
+   },
+   "crowdCloseTimerSingular": {
+      "message": "Този раздел ще се затвори след 1 секунда."
+   },
+   "crowdDisabled": {
+      "message": "Този уебсайт е заобиколен от байпас, който можете да активирате в опциите."
+   },
+   "crowdWait": {
+      "message": "За съжаление вие ​​сте първият, който се сблъска с тази връзка, но след като сте изчакали, други потребители на Universal Bypass вече няма да трябва."
+   },
+   "definitionsVersion": {
+      "message": "Определения на байпас"
+   },
+   "faq": {
+      "message": "Често задавани въпроси (FAQ)"
+   },
+   "firstrunNoScript": {
+      "message": "Въпреки това изглежда, че използвате NoScript или подобен, с който Universal Bypass не е съвместим."
+   },
+   "firstrunTitle": {
+      "message": "Благодарим ви за инсталирането на Universal Bypass!"
+   },
+   "infoFileHoster": {
+      "message": "За съжаление сървърът за изтегляне ще гарантира, че сте изчакали, преди да ви позволи да изтеглите файла."
+   },
+   "infoOutdated": {
+      "message": "Този уебсайт е заобиколен от по-нова версия на Universal Bypass."
+   },
+   "legalBattleInfo1": {
+      "message": "Linkvertise иска да съди Universal Bypass."
+   },
+   "legalBattleInfo2": {
+      "message": "Ако ви харесва това разширение, помогнете ми да се боря с добрата битка."
+   },
+   "legalBattleInfo3": {
+      "message": "Ако искате да научите повече за това,"
+   },
+   "legalBattleInfo4": {
+      "message": "ето още малко информация"
+   },
+   "options": {
+      "message": "Опции"
+   },
+   "optionsBlockIPLoggers": {
+      "message": "Блокирайте IP регистраторите, ако не могат да бъдат прескочени."
+   },
+   "optionsCrowdAutoClose": {
+      "message": "Затворете раздела, съдържащ дестинация с тълпата след% секунда от посещението му.\n"
+   },
+   "optionsCrowdAutoOpen": {
+      "message": "Отваряне на дестинации в тълпата в нов раздел след% секунди."
+   },
+   "optionsCrowdBypass": {
+      "message": "Дайте и вземете дестинациите на непроходимите сайтове."
+   },
+   "optionsEnabled": {
+      "message": "Активирайте заобикалянето на уебсайтовете."
+   },
+   "optionsInstantNavigationTrackers": {
+      "message": "Незабавно ме отведете до дестинациите на тракерите."
+   },
+   "optionsLink": {
+      "message": "Променете опциите на Universal Bypass."
+   },
+   "optionsNavigationDelay": {
+      "message": "Заведете ме до дестинации след% секунди."
+   },
+   "optionsTrackerBypass": {
+      "message": "Байпас тракери (като bit.ly и t.co) с помощта на Apimon.de."
+   },
+   "optionsUserscripts": {
+      "message": "Персонализирани байпаси"
+   },
+   "optionsUserscriptsDescription": {
+      "message": "Това е разширена функция за разработчиците да създават свои собствени скриптове за заобикаляне на сайтове.  След като бъдат усъвършенствани, те могат да бъдат изпратени на GitHub, за да бъдат добавени към Universal Bypass, така че да са достъпни за всички."
+   },
+   "privacyPolicy": {
+      "message": "Декларация за поверителност"
+   },
+   "support": {
+      "message": "Принос за Универсалният Байпас"
+   },
+   "update": {
+      "message": "Провери за обновления"
+   },
+   "updateNo": {
+      "message": "Дефиниции на байпас са актуални"
+   },
+   "updateYes": {
+      "message": "Успешно инсталирахте дефиниции на байпас."
+   },
+   "updating": {
+      "message": "Изтеглянето на байпас дефиниции..."
+   },
+   "version": {
+      "message": "Версия"
+   }
+}

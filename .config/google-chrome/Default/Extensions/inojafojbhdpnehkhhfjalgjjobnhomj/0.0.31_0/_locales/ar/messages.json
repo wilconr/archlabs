@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "أضف إلى قائمة الاستثناءات"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "مؤقت بريد إلكتروني مؤقت. حماية البريد الإلكتروني من البريد المزعج، والسير والخداع مع TempMail"
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "TempMail - عنوان البريد الإلكتروني المؤقت"
+   },
+   "change": {
+      "description": "Change",
+      "message": "تغيير"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "افحص البريد"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "نسخ"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "زر الملء التلقائي للنماذج"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "صندوق الوارد"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "رسائل غير مقروءة"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "لديك بريد جديد"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "لا شكرا"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "الصق البريد الإلكتروني المؤقت"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "رمز الاستجابة السريعة"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "قيمنا"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "إذا كنت تحب تطبيقنا ، فيرجى قضاء بعض الوقت لتقييمه في متجر الويب"
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "إزالة من قائمة الاستثناءات"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "شارك"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "شكرا"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "انتظر لحظة"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "عنوان البريد الإلكتروني الخاص بك مؤقت"
+   }
+}

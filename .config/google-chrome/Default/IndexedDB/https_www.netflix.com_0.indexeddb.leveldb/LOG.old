@@ -1,0 +1,5 @@
+2020/09/24-21:06:43.205 1fbc Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/24-22:25:18.395 66f Level-0 table #5: started
+2020/09/24-22:25:18.451 66f Level-0 table #5: 19479 bytes OK
+2020/09/24-22:25:18.494 66f Delete type=0 #3
+2020/09/24-22:25:18.495 66f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/09/26-16:20:26.413 3363 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/26-16:20:26.414 3363 Recovering log #4
+2020/09/26-16:20:26.414 3363 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000004.log 
+2020/09/26-16:23:14.980 3510 Level-0 table #8: started
+2020/09/26-16:23:15.087 3510 Level-0 table #8: 4458 bytes OK
+2020/09/26-16:23:15.118 3510 Delete type=0 #4
+2020/09/26-16:23:15.118 3510 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/26-16:23:15.119 3510 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x08\x00m\x00s\x00l\x00s\x00t\x00o\x00r\x00e' @ 710 : 1
+2020/09/26-16:23:15.119 3510 Compacting 1@1 + 1@2 files
+2020/09/26-16:23:15.165 3510 Generated table #9@1: 28 keys, 3624 bytes
+2020/09/26-16:23:15.165 3510 Compacted 1@1 + 1@2 files => 3624 bytes
+2020/09/26-16:23:15.205 3510 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/26-16:23:15.206 3510 Delete type=2 #5
+2020/09/26-16:23:15.206 3510 Delete type=2 #8
+2020/09/26-16:23:15.206 3510 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x08\x00m\x00s\x00l\x00s\x00t\x00o\x00r\x00e' @ 710 : 1 .. (end); will stop at (end)

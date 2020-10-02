@@ -1,0 +1,15 @@
+2020/09/23-13:59:18.996 373e Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.cinecalidad.to_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/23-13:59:18.996 373e Recovering log #10
+2020/09/23-13:59:18.996 373e Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.cinecalidad.to_0.indexeddb.leveldb/000010.log 
+2020/09/23-13:59:48.327 11d5 Level-0 table #14: started
+2020/09/23-13:59:48.418 11d5 Level-0 table #14: 2913 bytes OK
+2020/09/23-13:59:48.456 11d5 Delete type=0 #10
+2020/09/23-13:59:48.457 11d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/23-13:59:48.457 11d5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01>\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00c\x00i\x00n\x00e\x00c\x00a\x00l\x00i\x00d\x00a\x00d\x00.\x00t\x00o\x00/\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00-\x00c\x00l\x00o\x00u\x00d\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00p\x00u\x00s\x00h\x00-\x00s\x00c\x00o\x00p\x00e' @ 173 : 1
+2020/09/23-13:59:48.457 11d5 Compacting 1@1 + 1@2 files
+2020/09/23-13:59:48.497 11d5 Generated table #15@1: 48 keys, 2410 bytes
+2020/09/23-13:59:48.497 11d5 Compacted 1@1 + 1@2 files => 2410 bytes
+2020/09/23-13:59:48.532 11d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/23-13:59:48.533 11d5 Delete type=2 #14
+2020/09/23-13:59:48.533 11d5 Delete type=2 #5
+2020/09/23-13:59:48.543 11d5 Manual compaction at level-1 from '\x00\x03\x01\x02\x01>\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00c\x00i\x00n\x00e\x00c\x00a\x00l\x00i\x00d\x00a\x00d\x00.\x00t\x00o\x00/\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00-\x00c\x00l\x00o\x00u\x00d\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00p\x00u\x00s\x00h\x00-\x00s\x00c\x00o\x00p\x00e' @ 173 : 1 .. (end); will stop at (end)

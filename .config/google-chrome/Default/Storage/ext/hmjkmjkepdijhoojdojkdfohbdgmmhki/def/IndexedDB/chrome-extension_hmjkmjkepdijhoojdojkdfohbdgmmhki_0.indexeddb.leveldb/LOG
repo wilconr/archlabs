@@ -1,0 +1,17 @@
+2020/07/29-11:16:41.384 2535 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/Storage/ext/hmjkmjkepdijhoojdojkdfohbdgmmhki/def/IndexedDB/chrome-extension_hmjkmjkepdijhoojdojkdfohbdgmmhki_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/29-11:16:41.384 2535 Recovering log #25
+2020/07/29-11:16:41.384 2535 Reusing old log /home/wilmer/.config/google-chrome/Default/Storage/ext/hmjkmjkepdijhoojdojkdfohbdgmmhki/def/IndexedDB/chrome-extension_hmjkmjkepdijhoojdojkdfohbdgmmhki_0.indexeddb.leveldb/000025.log 
+2020/07/29-11:23:03.197 9fb Level-0 table #31: started
+2020/07/29-11:23:03.343 9fb Level-0 table #31: 1267864 bytes OK
+2020/07/29-11:23:03.383 9fb Delete type=0 #25
+2020/07/29-11:23:03.385 9fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/29-11:23:03.385 9fb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03 \x01\x04\x00N\x00O\x00T\x00E\x00\x01\x1c\x001\x007\x003\x009\x007\x00b\x003\x00e\x006\x007\x00b\x00.\x009\x00c\x001\x00e\x000\x001\x00f\x00c\x001\x006\x000\x00d\x000\x004\x008\x000' @ 70806 : 1
+2020/07/29-11:23:03.385 9fb Compacting 1@1 + 2@2 files
+2020/07/29-11:23:03.642 9fb Generated table #32@1: 55 keys, 3756651 bytes
+2020/07/29-11:23:03.731 9fb Generated table #33@1: 4007 keys, 786134 bytes
+2020/07/29-11:23:03.731 9fb Compacted 1@1 + 2@2 files => 4542785 bytes
+2020/07/29-11:23:03.765 9fb compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/07/29-11:23:03.766 9fb Delete type=2 #28
+2020/07/29-11:23:03.766 9fb Delete type=2 #27
+2020/07/29-11:23:03.766 9fb Delete type=2 #31
+2020/07/29-11:23:03.769 9fb Manual compaction at level-1 from '\x00\x01\x03 \x01\x04\x00N\x00O\x00T\x00E\x00\x01\x1c\x001\x007\x003\x009\x007\x00b\x003\x00e\x006\x007\x00b\x00.\x009\x00c\x001\x00e\x000\x001\x00f\x00c\x001\x006\x000\x00d\x000\x004\x008\x000' @ 70806 : 1 .. (end); will stop at (end)

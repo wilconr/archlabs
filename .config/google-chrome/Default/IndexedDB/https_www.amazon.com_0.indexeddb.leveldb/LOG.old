@@ -1,0 +1,15 @@
+2020/09/23-20:24:06.268 15096 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/23-20:24:06.268 15096 Recovering log #31
+2020/09/23-20:24:06.268 15096 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/000031.log 
+2020/09/23-20:24:13.335 11d5 Level-0 table #36: started
+2020/09/23-20:24:13.444 11d5 Level-0 table #36: 530 bytes OK
+2020/09/23-20:24:13.476 11d5 Delete type=0 #31
+2020/09/23-20:24:13.476 11d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/23-20:24:13.476 11d5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\xe0\xee\xcc\xdeKwB\x00\x01\x14\x007\x007\x00W\x00N\x00D\x00N\x00N\x00X\x009\x009\x00C\x00P\x005\x00Q\x00C\x00P\x00Y\x00Q\x00J\x00E' @ 240 : 1
+2020/09/23-20:24:13.476 11d5 Compacting 1@1 + 1@2 files
+2020/09/23-20:24:13.512 11d5 Generated table #37@1: 31 keys, 867 bytes
+2020/09/23-20:24:13.512 11d5 Compacted 1@1 + 1@2 files => 867 bytes
+2020/09/23-20:24:13.552 11d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/23-20:24:13.553 11d5 Delete type=2 #36
+2020/09/23-20:24:13.553 11d5 Delete type=2 #33
+2020/09/23-20:24:13.553 11d5 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\xe0\xee\xcc\xdeKwB\x00\x01\x14\x007\x007\x00W\x00N\x00D\x00N\x00N\x00X\x009\x009\x00C\x00P\x005\x00Q\x00C\x00P\x00Y\x00Q\x00J\x00E' @ 240 : 1 .. (end); will stop at (end)

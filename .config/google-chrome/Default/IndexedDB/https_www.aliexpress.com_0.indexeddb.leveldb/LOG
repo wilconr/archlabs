@@ -1,0 +1,5 @@
+2020/06/15-12:26:13.043 1282 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/15-12:26:58.550 487 Level-0 table #5: started
+2020/06/15-12:26:58.588 487 Level-0 table #5: 2417 bytes OK
+2020/06/15-12:26:58.628 487 Delete type=0 #3
+2020/06/15-12:26:58.628 487 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

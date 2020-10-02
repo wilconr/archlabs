@@ -1,0 +1,1 @@
+var g_strVer = '1.4';

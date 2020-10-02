@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "İstisna listesine ekle"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Geçici tek kullanımlık e-posta adresi. TempMail ile e-postalarınızı spam, botlar ve kimlik avına karşı korumayın."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Geçici E-posta Hizmeti"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Takas"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "POSTAYI KONTROL ET"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Kopyala"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Formları otomatik doldurma düğmesi"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Gelen kutusu"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "Okunmamış mesaj"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "Yeni mailin var"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "Hayır teşekkürler"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Geçici e-posta adresini yapıştırın"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "QR kod"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Bizi değerlendirin"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "Bizim app seviyorsanız, web mağazasında değerlendirmek için lütfen bir dakikanızı ayırın."
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "İstisna listesinden kaldır"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Bize paylaş"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "teşekkür ederim"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Biraz bekle"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Geçici E-posta adresiniz"
+   }
+}

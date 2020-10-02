@@ -1,0 +1,7 @@
+Language server is set to Microsoft.
+Acquiring model 'intellisense-members-lstm' for python
+Querying IntelliCode service for available models.
+vs-intellicode-python was passed a model: {}.
+Downloading model.
+Starting download of https://cdsmprodstg.blob.core.windows.net/models-prod-output/Output_15708AE89896CA5DF1690433B7A8D93D28B7_215F8B4FAB1F4663ABD624559FD205B9?sv=2018-03-28&sr=b&sig=xE%2B02fxb5Aa%2FDc3T0h7QmZFx0uXpEk09M9mkYA2ZEUg%3D&se=2020-09-23T15%3A50%3A01Z&sp=r
+Download complete.

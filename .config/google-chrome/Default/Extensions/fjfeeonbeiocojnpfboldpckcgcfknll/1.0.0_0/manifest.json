@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "html/background.html"
+   },
+   "browser_action": {
+      "default_icon": "img/icon-bitty.png",
+      "default_popup": "html/list.html",
+      "default_title": ".torrent to Transmission"
+   },
+   "description": "Automagically add, access and control torrents with Chrome.",
+   "icons": {
+      "128": "img/icon-large.png",
+      "16": "img/icon-bitty.png",
+      "48": "img/icon-small.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjr2TilOoS4mKhuY4IOOQer/hAn4+BPiod8iYUE23T8qIla7Ic3hSDYwRvmkUrsXPEPlZittQQ8/zBySMOTmx6ZkRqhZTcZFYgNGAT2yvzU50b55e6r6qphjbzDbCI+K3L0fBQH4PlEgT8zUGd54VnoXI8fihemqAPlxtQu0RyL8Qd+XOooTxEHKvoNOmJhFDL/uVLr6vq4u6FKXJaGdZBIAZQy3+A3bf1OlnCr4+3DjhiW9SUbQBjgtb5uj72TJA+LN+XQoPLrhaMDUffyk4J/4azIsqLOZITkfJoaNkhi9CqgtIXO7hMOUJCdeEDpaRQfR3zL+THT4yzfPk5VKOiwIDAQAB",
+   "manifest_version": 2,
+   "name": ".torrent to Transmission",
+   "options_page": "html/options.html",
+   "permissions": [ "contextMenus", "notifications", "http://*/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0",
+   "web_accessible_resources": [ "img/icon-large.png" ]
+}

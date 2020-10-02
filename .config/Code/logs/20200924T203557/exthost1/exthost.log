@@ -1,0 +1,118 @@
+[2020-09-24 20:36:10.817] [exthost] [info] extension host started
+[2020-09-24 20:36:10.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-09-24 20:36:10.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-09-24 20:36:12.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-09-24 20:36:12.136] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-09-24 20:36:12.576] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-09-24 20:36:12.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-09-24 20:36:13.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-09-24 20:36:13.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/python/dist/pythonMain
+[2020-09-24 20:36:13.177] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-09-24 20:36:13.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension
+[2020-09-24 20:36:13.743] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:python"}
+[2020-09-24 20:36:13.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode
+[2020-09-24 20:36:13.858] [exthost] [info] ExtensionService#_doActivateExtension whinarn.python-auto-venv {"startup":false,"extensionId":{"value":"whinarn.python-auto-venv","_lower":"whinarn.python-auto-venv"},"activationEvent":"onLanguage:python"}
+[2020-09-24 20:36:13.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/whinarn.python-auto-venv-1.1.1/dist/extension.js
+[2020-09-24 20:36:13.884] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-24 20:36:13.884] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-24 20:36:13.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-24 20:36:13.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-24 20:36:14.024] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-24 20:36:14.024] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-09-24 20:36:14.175] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-24 20:36:14.175] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-24 20:36:14.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-24 20:36:14.233] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-09-24 20:36:14.271] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2020-09-24 20:36:14.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2020-09-24 20:36:14.745] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"extensionId":{"value":"formulahendry.terminal","_lower":"formulahendry.terminal"},"activationEvent":"*"}
+[2020-09-24 20:36:14.745] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2020-09-24 20:36:15.093] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-09-24 20:36:15.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/pkief.material-icon-theme-4.3.0/dist/extension
+[2020-09-24 20:36:18.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-24 20:36:18.094] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2020-09-24 20:36:18.238] [exthost] [info] eager extensions activated
+[2020-09-24 20:36:32.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 20:36:32.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-24 20:36:33.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 20:36:33.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-24 20:36:33.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 20:36:33.078] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-09-24 20:46:50.358] [exthost] [error] [ms-python.python] provider FAILED
+[2020-09-24 20:46:50.358] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:306004)
+	at _.handleFailedRequest (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:305858)
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:276210
+[2020-09-24 20:46:50.360] [exthost] [error] [ms-python.python] provider FAILED
+[2020-09-24 20:46:50.360] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:306004)
+	at _.handleFailedRequest (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:305858)
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:273330
+[2020-09-24 20:46:55.295] [exthost] [error] [ms-python.python] provider FAILED
+[2020-09-24 20:46:55.295] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:306004)
+	at _.handleFailedRequest (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:305858)
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:276210
+[2020-09-24 20:57:18.385] [exthost] [error] [ms-python.python] provider FAILED
+[2020-09-24 20:57:18.385] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:306004)
+	at _.handleFailedRequest (/home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:305858)
+	at /home/wilmer/.vscode/extensions/ms-python.python-2020.8.109390/out/client/extension.js:1:276210
+[2020-09-24 21:00:45.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-24 21:00:45.042] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/grunt/dist/main
+[2020-09-24 21:00:45.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-24 21:00:45.151] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/gulp/dist/main
+[2020-09-24 21:00:45.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-24 21:00:45.172] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/jake/dist/main
+[2020-09-24 21:00:45.202] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-09-24 21:00:45.202] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2020-09-24 22:36:05.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-09-24 22:36:05.021] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-09-24 22:36:05.195] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-09-24 22:36:05.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-09-24 22:47:54.390] [exthost] [info] extension host started
+[2020-09-24 22:47:54.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-09-24 22:47:54.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-09-24 22:47:54.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-09-24 22:47:54.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-09-24 22:47:54.710] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-09-24 22:47:54.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-09-24 22:47:54.790] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-09-24 22:47:54.791] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/python/dist/pythonMain
+[2020-09-24 22:47:54.826] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-09-24 22:47:54.826] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/ms-python.python-2020.9.111407/out/client/extension
+[2020-09-24 22:47:55.438] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:python"}
+[2020-09-24 22:47:55.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10/dist/intellicode
+[2020-09-24 22:47:55.605] [exthost] [info] ExtensionService#_doActivateExtension whinarn.python-auto-venv {"startup":false,"extensionId":{"value":"whinarn.python-auto-venv","_lower":"whinarn.python-auto-venv"},"activationEvent":"onLanguage:python"}
+[2020-09-24 22:47:55.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/whinarn.python-auto-venv-1.1.1/dist/extension.js
+[2020-09-24 22:47:55.631] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-24 22:47:55.631] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-24 22:47:55.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-24 22:47:55.695] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-24 22:47:55.769] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-24 22:47:55.769] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-09-24 22:47:55.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-24 22:47:55.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-24 22:47:55.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-24 22:47:55.947] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-09-24 22:47:56.022] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2020-09-24 22:47:56.023] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2020-09-24 22:47:56.403] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"extensionId":{"value":"formulahendry.terminal","_lower":"formulahendry.terminal"},"activationEvent":"*"}
+[2020-09-24 22:47:56.403] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2020-09-24 22:47:56.598] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-09-24 22:47:56.598] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilmer/.vscode/extensions/pkief.material-icon-theme-4.3.0/dist/extension
+[2020-09-24 22:47:56.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-24 22:47:56.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2020-09-24 22:47:57.889] [exthost] [info] eager extensions activated
+[2020-09-24 22:48:00.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 22:48:00.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-24 22:48:01.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 22:48:01.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-24 22:48:01.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-09-24 22:48:01.276] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-09-24 23:18:59.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-09-24 23:18:59.220] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-09-24 23:18:59.242] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-09-24 23:18:59.242] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-09-24 23:18:59.563] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-09-24 23:18:59.563] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain

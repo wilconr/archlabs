@@ -1,0 +1,50 @@
+{
+   "author": "Wappalyzer",
+   "background": {
+      "page": "html/background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/icon_128.png",
+         "16": "images/icon_16.png",
+         "19": "images/icon_19.png",
+         "32": "images/icon_32.png",
+         "38": "images/icon_38.png"
+      },
+      "default_popup": "html/popup.html",
+      "default_title": "Wappalyzer"
+   },
+   "content_scripts": [ {
+      "js": [ "js/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "js/lib/iframe.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "Identify web technologies",
+   "homepage_url": "https://www.wappalyzer.com/",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "19": "images/icon_19.png",
+      "32": "images/icon_32.png",
+      "38": "images/icon_38.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTx6NfXtZyfrF1kTv+h0o1P0yovMsOKjocLmo+8eCQmrGS4FayUspVq/UtL0zbKnK3xXW1kfGVkOAy5TfZ6fUMoHWF7NyXEsvD+jQ6HLDOkHq/VDcN6i5hJhmYORwdFNhBAmYZY0ORd65AR2wHlxJoCRuyz25Ys/rxMaQad/zHHwIDAQAB",
+   "manifest_version": 2,
+   "name": "Wappalyzer",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "html/options.html"
+   },
+   "permissions": [ "cookies", "storage", "tabs", "webRequest", "webNavigation", "webRequestBlocking", "http://*/*", "https://*/*" ],
+   "short_name": "Wappalyzer",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.3.3",
+   "web_accessible_resources": [ "js/inject.js" ]
+}

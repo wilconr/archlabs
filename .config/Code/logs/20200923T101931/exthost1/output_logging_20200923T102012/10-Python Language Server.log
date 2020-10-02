@@ -1,0 +1,3 @@
+Downloading https://pvsc.azureedge.net/python-language-server-stable/Python-Language-Server-linux-x64.0.5.51.nupkg...
+Language server download failed
+Error: getaddrinfo EAI_AGAIN pvsc.azureedge.net

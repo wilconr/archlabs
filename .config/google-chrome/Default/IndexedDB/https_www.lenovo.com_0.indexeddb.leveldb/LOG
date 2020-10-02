@@ -1,0 +1,5 @@
+2020/06/07-12:43:47.849 16070 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/07-12:45:07.604 7363 Level-0 table #5: started
+2020/06/07-12:45:07.660 7363 Level-0 table #5: 59485 bytes OK
+2020/06/07-12:45:07.698 7363 Delete type=0 #3
+2020/06/07-12:45:07.698 7363 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

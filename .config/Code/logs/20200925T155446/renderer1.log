@@ -1,0 +1,14 @@
+[2020-09-25 16:24:53.619] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-25 16:54:53.614] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-25 16:55:13.199] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-25 17:24:53.618] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-25 17:25:03.178] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-25 17:54:53.616] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2020-09-25 17:55:03.176] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)

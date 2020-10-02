@@ -1,0 +1,21 @@
+00:00:02.796086 VirtualBox GUI VM Selector Window 6.1.14 r140239 linux.amd64 (Sep  7 2020 21:01:30) release log
+00:00:02.796092 Log opened 2020-10-01T20:24:42.725656000Z
+00:00:02.796095 Build Type: release
+00:00:02.796102 OS Product: Linux
+00:00:02.796106 OS Release: 5.8.12-arch1-1
+00:00:02.796110 OS Version: #1 SMP PREEMPT Sat, 26 Sep 2020 21:42:58 +0000
+00:00:02.796175 DMI Product Name: Dell System Inspiron N4110
+00:00:02.796204 DMI Product Version: 
+00:00:02.796229 Firmware type: BIOS
+00:00:02.796324 Host RAM: 7871MB (7.6GB) total, 7348MB (7.1GB) available
+00:00:02.796332 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.796334 Process ID: 46865
+00:00:02.796335 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:02.796417 Qt version: 5.15.1
+00:00:03.164147 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:08.862852 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x35 x 682x733
+00:00:08.921859 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:50.444621 GUI: UIMediumEnumerator: Medium with key={{cc5be67b-2ac7-4e44-ac04-17b87726292f}} created
+00:00:50.580623 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:54.335958 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:54.888462 GUI: UIMediumEnumerator: Medium-enumeration finished!

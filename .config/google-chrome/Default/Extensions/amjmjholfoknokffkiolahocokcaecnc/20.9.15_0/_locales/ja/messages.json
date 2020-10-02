@@ -1,0 +1,89 @@
+{
+   "attachments_title": {
+      "message": "Send Anywhere File Attachments"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "cancel_info": {
+      "message": "アップロードをキャンセルしますか？キャンセルする場合、相手はもうファイルを受信できません。"
+   },
+   "cancelled": {
+      "message": "キャンセル"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "complete": {
+      "message": "完了"
+   },
+   "download_link": {
+      "message": "Download Link"
+   },
+   "error": {
+      "message": "エラー"
+   },
+   "extension_desc": {
+      "message": "一度に最大50GB まで、大容量のファイルを手軽に共有しましょう！"
+   },
+   "extension_name": {
+      "message": "Send Anywhere (For Gmail/Slack)"
+   },
+   "extension_short_name": {
+      "message": "Send Anywhere"
+   },
+   "fail": {
+      "message": "アップロード失敗"
+   },
+   "gmail_hover_title": {
+      "message": "Send Anywhereで大容量ファイル添付"
+   },
+   "inprogress": {
+      "message": "アップロード中"
+   },
+   "key": {
+      "message": "キー"
+   },
+   "login_required": {
+      "message": "利用するにはログインが必要です。"
+   },
+   "more_files": {
+      "message": "...$1 more files"
+   },
+   "no": {
+      "message": "いいえ"
+   },
+   "noti_copy": {
+      "message": "クリップボードにコピーされました。"
+   },
+   "pdf_always_close": {
+      "message": "今後表示しない"
+   },
+   "pdf_now_close": {
+      "message": "今回のみ非表示する"
+   },
+   "pdf_option_desc": {
+      "message": "\u003Cstrong>このPDFをアップロード\u003C/strong>\u003Cbr/>を非表示にしますか？"
+   },
+   "sa": {
+      "message": "Send Anywhere"
+   },
+   "slack_first_popup_desc": {
+      "message": "SlackでもSend Anywhereで大容量のファイルを共有してみましょう！"
+   },
+   "try_it_now": {
+      "message": "Try it now"
+   },
+   "upload_image": {
+      "message": "この画像をアップロード"
+   },
+   "upload_pdf": {
+      "message": "このPDFをアップロード"
+   },
+   "view_detail": {
+      "message": "詳細を見る"
+   },
+   "yes": {
+      "message": "はい"
+   }
+}

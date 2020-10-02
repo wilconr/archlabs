@@ -1,0 +1,8 @@
+2020/09/24-17:50:27.975 13045 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.cinecalidad.to_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/24-17:50:27.976 13045 Recovering log #13
+2020/09/24-17:50:27.976 13045 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_www.cinecalidad.to_0.indexeddb.leveldb/000013.log 
+2020/09/24-17:51:31.653 12962 Level-0 table #18: started
+2020/09/24-17:51:31.653 12962 Level-0 table #18: 0 bytes OK
+2020/09/24-17:51:31.691 12962 Delete type=0 #13
+2020/09/24-17:51:31.691 12962 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/24-17:51:31.691 12962 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

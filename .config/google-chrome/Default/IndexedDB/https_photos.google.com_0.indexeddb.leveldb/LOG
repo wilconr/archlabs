@@ -1,0 +1,8 @@
+2020/04/25-15:03:07.298 43050 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/25-15:03:07.298 43050 Recovering log #52
+2020/04/25-15:03:07.298 43050 Reusing old log /home/wilmer/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000052.log 
+2020/04/25-15:03:39.922 690 Level-0 table #56: started
+2020/04/25-15:03:39.922 690 Level-0 table #56: 0 bytes OK
+2020/04/25-15:03:40.022 690 Delete type=0 #52
+2020/04/25-15:03:40.022 690 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/25-15:03:40.023 690 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

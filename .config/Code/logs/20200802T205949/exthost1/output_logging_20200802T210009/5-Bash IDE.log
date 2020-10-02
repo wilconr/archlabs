@@ -1,0 +1,9 @@
+[Info  - 9:00:09 PM] BashLanguageServer initializing...
+Analyzing files matching glob "**/*@(.sh|.inc|.bash|.command)" inside /home/wilmer/ScriptingAvanzado
+Glob resolved with 1 files after 0.009 seconds
+Analyzing file:///home/wilmer/ScriptingAvanzado/wilPwnWifi.sh
+Analyzer finished after 0.032 seconds
+[Info  - 9:00:10 PM] BashLanguageServer initialized
+onDocumentSymbol
+onHover 67:21 word="networkCard"
+onHover 65:1 word=null

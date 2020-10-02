@@ -1,0 +1,167 @@
+{
+   "appDesc": {
+      "message": ".وقت خود را با مطابقت دادن هدر ندهید. میان بر جهانی به طور خودکار کوتاه کننده های لینک مزاحم را از قلم می اندازد"
+   },
+   "beforeNavigate": {
+      "message": ".شما تقریبا به مقصدتان رسیده اید"
+   },
+   "beforeNavigateDestination": {
+      "message": ".مقصد شما % است"
+   },
+   "beforeNavigateInstant": {
+      "message": "در حال هدایت شدن به % هستید"
+   },
+   "beforeNavigateOptions": {
+      "message": "آیا می‌خواهید بلافاصله هدایت شوید یا پس ازx ثانیه؟"
+   },
+   "beforeNavigateTimer": {
+      "message": "شما به طور خودکار پس از % ثانیه هدایت خواهید شد."
+   },
+   "beforeNavigateTimerSingular": {
+      "message": "شما به طور خودکار پس از ۱ ثانیه هدایت خواهید شد."
+   },
+   "beforeNavigateUnsafe": {
+      "message": "در هرصورت، اگر الان هدایت شوید، آن‌ها متوجه Universal Bypass می‌شوند."
+   },
+   "beforeNavigateUnsafeTimer": {
+      "message": "شما پس از % ثانیه دیگر شناسایی نخواهید شد."
+   },
+   "beforeNavigateUnsafeTimerSingular": {
+      "message": "شما پس از 1 ثانیه دیگر شناسایی نخواهید شد."
+   },
+   "blockedSubtitle": {
+      "message": "یا شما نمی خواهید تا میان بر جهانی مانع از گرفته شدن آی پی شما توسط فعالان نادرست شود؟"
+   },
+   "blockedTitle": {
+      "message": ".میان بر جهانی مانع از وارد شدن آی پی شما شده است"
+   },
+   "bypassCounter": {
+      "message": "Universal Bypass سایت % را برای شما دور زد."
+   },
+   "cancel": {
+      "message": "انصراف"
+   },
+   "changelog": {
+      "message": "گزارش تغییرات"
+   },
+   "contributors": {
+      "message": "مشارکت کنندگان"
+   },
+   "crowdBypassed": {
+      "message": "!ممکن است شما مجبور به صبر کردن نباشید"
+   },
+   "crowdBypassedIgnore": {
+      "message": "آیا این نادرست است؟"
+   },
+   "crowdBypassedInfo": {
+      "message": ".دیگر کاربران میان بر جهانی منتظر شما بوده اند و گزارش داده اند که این منجر به % شده است"
+   },
+   "crowdBypassedOptions": {
+      "message": "آیا می‌خواهید این بلافاصله در یک صفحه جدید باز شود یا بعد از x ثانیه؟"
+   },
+   "crowdBypassedTimer": {
+      "message": "این پس از% ثانیه در یک صفحه جدید باز خواهد شد."
+   },
+   "crowdBypassedTimerSingular": {
+      "message": "این پس از۱ ثانیه در یک صفحه جدید باز خواهد شد."
+   },
+   "crowdCloseTimer": {
+      "message": "این صفحه بعد از % ثانیه بسته خواهد شد."
+   },
+   "crowdCloseTimerSingular": {
+      "message": "این صفحه بعد از ۱ ثانیه بسته خواهد شد."
+   },
+   "crowdDisabled": {
+      "message": "این وبسایت توسط دورزدن دسته‌جمعی دور زده شده است، که شما در تنظیمات غیرفعال کرده اید."
+   },
+   "crowdWait": {
+      "message": "متاسفانه، شما اولین نفری هستید که از این لینک بازدید می‌کنید؛\nولی بعد اینکه شما صبر کردید بقیه کاربران Universal Bypass دیگر نیازی ندارند."
+   },
+   "definitionsVersion": {
+      "message": "تنظیمات دورزدن"
+   },
+   "faq": {
+      "message": ".سوالات متداول"
+   },
+   "firstrunNoScript": {
+      "message": ".به نظر می رسد شما از نو اسکریپت یا مشابه آن استفاده می کنید که با میان بر جهانی سازگار نیست"
+   },
+   "firstrunTitle": {
+      "message": ".با تشکر برای نصب میان بر جهانی"
+   },
+   "infoFileHoster": {
+      "message": "متاسفانه، سرور دانلود باید حتما مطمئن شود که شما صبر کردید قبل از اینکه به شما اجازه دانلود بدهد."
+   },
+   "infoOutdated": {
+      "message": "این وبسایت توسط یک نسخه جدیدتر از Universal Bypass دور زده شده است."
+   },
+   "legalBattleInfo1": {
+      "message": "Linkvertise می‌خواهد از Universal Bypass شکایت کند."
+   },
+   "legalBattleInfo2": {
+      "message": "اگر این افزونه را دوست دارید، به من کمک کنید تا پیروز شویم."
+   },
+   "legalBattleInfo3": {
+      "message": "اگر دوست دارید بیشتر در این مورد بدانید،"
+   },
+   "legalBattleInfo4": {
+      "message": "اطلاعات بیشتر در اینجا موجود است"
+   },
+   "options": {
+      "message": "گزینه ها"
+   },
+   "optionsBlockIPLoggers": {
+      "message": ".آی پی ورودگر ها که قابل به رد شدن نیستند را مسدود کن"
+   },
+   "optionsCrowdAutoClose": {
+      "message": "صفحه‌ی مقصد پیدا شده را بعد از % ثانیه از مشاهده آن ببند."
+   },
+   "optionsCrowdAutoOpen": {
+      "message": "مقصد‌های پیداشده را در صفحه ای جدید بعد از % ثانیه باز کن."
+   },
+   "optionsCrowdBypass": {
+      "message": ".مقاصد غیر قابل رد شدن کوتاه کننده ها را بدهید و بگیرید"
+   },
+   "optionsEnabled": {
+      "message": ".میان بر های وب سایت را فعال سازید"
+   },
+   "optionsInstantNavigationTrackers": {
+      "message": "بلافاصله من را به مقصد کوتاه‌کننده‌ها ببر."
+   },
+   "optionsLink": {
+      "message": "تغییر تنظیمات Universal Bypass."
+   },
+   "optionsNavigationDelay": {
+      "message": "من را پس از % ثانیه به مقصد ببر."
+   },
+   "optionsTrackerBypass": {
+      "message": "دور زدن کوتاه کننده‌ها (مثل bit.ly و t.co) توسط Apimon.de"
+   },
+   "optionsUserscripts": {
+      "message": ".میان بر های سفارشی"
+   },
+   "optionsUserscriptsDescription": {
+      "message": "این یک قابلیت پیشرفته برای توسعه‌دهندگان است تا کدهای خودشان را برای دورزدن سایت‌ها بنویسند.\nوقتی که کامل شد، می‌توانند در GitHub ثبت شوند و به Universal Bypass اضافه شوند، تا برای همه قابل دسترس باشند."
+   },
+   "privacyPolicy": {
+      "message": ".مقررات حفظ حریم شخصی"
+   },
+   "support": {
+      "message": "با Universal Bypass همکاری کنید."
+   },
+   "update": {
+      "message": "جستسجو برای بروزرسانی"
+   },
+   "updateNo": {
+      "message": "تنظیمات دورزدن به روز هستند."
+   },
+   "updateYes": {
+      "message": "تنظیمات دورزدن با موفقیت دانلود شد."
+   },
+   "updating": {
+      "message": "در حال دانلود تنظیمات دورزدن..."
+   },
+   "version": {
+      "message": "نسخه"
+   }
+}

@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "Додај у листу изузетака"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Привремена за једнократну употребу е-маил адреса. Заштитите своју е-пошту од спам и пхисхинг са TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Привремени за једнократну Е-маил"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Промена"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "ПРОВЕРИТЕ EMAIL"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Копија"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Формс АутоФилл дугме"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Инбок"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "непрочитане поруке"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "Иоу хаве нев маил"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "Не хвала"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Налепите привремену адресу е-поште"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "QR цоде"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Оцените нас"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "Ако волите нашу апликацију, узмите тренутак да је оцијените у веб-трговини."
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "Уклони са листе изузетака"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Удео"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Хвала вам"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Сачекајте тренутак"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Ваш Привремена Email адреса"
+   }
+}

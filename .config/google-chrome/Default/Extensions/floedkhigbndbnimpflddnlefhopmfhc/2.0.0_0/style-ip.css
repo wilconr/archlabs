@@ -1,0 +1,38 @@
+/* CSS File for What is my IP address extension*/
+
+/* global */
+/*
+html, body, form, fieldset, p, div, h1, h2, a, span{-webkit-text-size-adjust:none}   
+*/
+body{font-size:63%;font-family:sans-serif;background-color:#fff;color:#333;margin:0px;padding:0px;zoom:1.0}
+.icon_16{width:16px;height:16px;vertical-align:middle;border:0px;}
+.icon_32{width:32px;height:32px;vertical-align:middle;border:0px;}
+.icon_48{width:48px;height:48px;vertical-align:middle;border:0px;}
+.icon_50{width:50px;height:50px;vertical-align:middle;border:0px;}
+.icon_60{width:60px;height:60px;vertical-align:middle;border:0px;}
+.icon_flag{width:16px;height:11px;vertical-align:middle;border:0px;}
+
+a{color:#069;text-decoration: none; }
+
+/* Content */
+#whole{width:290px;margin:0px;font-size:1.2em;color:#303942;}
+
+.report{width:270px;margin:0px 10px 10px 10px;border:1px solid #DBDBDB}
+.report_tbl{width:270px;border-spacing:0;border-collapse:collapse;padding:0px;}
+.report_tbl TD{height:20px;padding-left:4px;padding-right:4px}
+.report_tbl TR{border-top:1px solid #eeeeee;}
+.report_tbl .noborder{border-top:0px;}
+.report_tbl .tr_a{background:#ffffff}
+.report_tbl .tr_b{background:#fdfdfd}
+.report_tbl TR:hover{	background: #f7f7f7;}
+.report_tbl  .tips{width:110px;}
+.report_tbl  .loading{text-align:center}
+.report_tbl  .info{text-align:left}
+.report_tbl  .info_detail{width:135px;overflow:hidden;height:20px;line-height:20px;}
+
+/*form*/
+#f_ip{width:120px;text-align:center}
+.ip_form{width:160px;margin:4px auto;}
+.search_btn{border:0px}
+.search_btn:hover{border:0px}
+.search_img{width:24x;height:24px;vertical-align:middle;border:0px;}

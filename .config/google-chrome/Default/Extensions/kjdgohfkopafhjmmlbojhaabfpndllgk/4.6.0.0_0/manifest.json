@@ -1,0 +1,32 @@
+{
+   "author": "Muthukumaran Navaneethakrishnan(https://github.com/muthuishere)",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+
+   },
+   "content_scripts": [ {
+      "js": [ "js/vapi-client.js", "js/utils.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Automatically login to your favourite websites  without entering credentials , even for Basic Auth Now",
+   "homepage_url": "https://www.facebook.com/Auto-Login-433751853437039/",
+   "icons": {
+      "128": "images/autologin-128.png",
+      "48": "images/autologin-48.png",
+      "64": "images/autologin-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiWnab4RA/G3iYN+XqU1EkuWEf6qqtNzgvE2p829oj9ArhceNifnmCo1DYBDFAUn4CRA8NtXy6BWOqhmJkqvs+dvGCn5ygIkXuI8isFvsg9fIcxIGlx9LeU6jBRe+P3la/YHzbelfbqgUzyhsA2teCwcyRXn5wYm5LlLjxTYstG7Lrg9SfklMLW/HXVyCOBJ+fpkwYsWSQ4EGCAeZieRZISpPp6wisx9IolOWeMfTv+QAiuhhrvEjUyThqliAcZGs698LfGqqd7DzEu10aCgGE98XKSUTdqwZ2QoHTiUsMBGO3l93coVkycvo7fmF+8oLwZFrqEXmonvMoyWGAEjVNwIDAQAB",
+   "manifest_version": 2,
+   "name": "Auto Login",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "webRequest", "webRequestBlocking", "storage", "http://*/*", "https://*/*" ],
+   "short_name": "Auto Login",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.6.0.0",
+   "web_accessible_resources": [ "manifest.json", "images/*.png", "images/*.jpg", "css/*.css", "auth.html", "js/*.js" ]
+}

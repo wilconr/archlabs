@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "Aggiungi all'elenco delle eccezioni"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Indirizzo e-mail usa e getta temporanea. Proteggi la tua e-mail da spam, phishing e bot con TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Email Temporanea Usa e Getta"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Cambia"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "CONTROLLARE EMAIL"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Copia"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Pulsante di riempimento automatico dei moduli"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Posta in arrivo"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "messaggi non letti"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "Avete nuova posta"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "No grazie"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Incolla l'indirizzo email temporaneo"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "QR Code"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Tasso"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "Se ami la nostra app, ti preghiamo di prendere un momento per valutarla nel web store."
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "Rimuovi dall'elenco delle eccezioni"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "siamo Condividi"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Grazie"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Aspetta un momento"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Il tuo indirizzo email temporaneo"
+   }
+}

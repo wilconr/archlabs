@@ -1,0 +1,33 @@
+q
+bind -f common - vol -1%
+bind -f common + vol +1%
+bind -f common - vol -5%
+bind -f common + vol +5%
+bind -f common m toggle aaa_mode
+player-play
+player
+left-view
+factivate
+player-play-playback
+player-pause-playback
+pause
+bind -f common F9 player-pause
+set lib_sort=albumartist title filename play_count
+save
+a
+colorscheme solarized-dark
+colorscheme gruvbox
+colorscheme night
+colorscheme gruvbox-alt
+colorscheme gray-88
+colorscheme dracula
+colorscheme default
+colorscheme cyan
+fset mp3=filename="*.mp3"
+bind -f common s toggle shuffle
+bind -f common F8 player-prev
+bind -f common F10 player-next
+bind -f common f10 player-next
+bind -f common playerctl next player-next
+add /mnt/DATOS/MIS\ CARPETAS/MUS1C4/
+add /mnt/DATOS/MIS\CARPETAS/MUS1C4/

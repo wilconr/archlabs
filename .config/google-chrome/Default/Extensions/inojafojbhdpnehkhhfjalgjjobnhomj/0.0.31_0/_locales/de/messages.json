@@ -1,0 +1,82 @@
+{
+   "add_to_exception_list": {
+      "description": "Add to exception list",
+      "message": "Zur Ausnahmeliste hinzufügen"
+   },
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Vorübergehende E-Mail-Adresse. Schützen Sie Ihre E-Mails vor Spam, Bots und Phishing mit TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Einweg temporäre E-Mail-Adresse"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Ändern"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "PRÜFEN MAIL"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Kopie"
+   },
+   "forms_autofill_button": {
+      "description": "Forms autofill button",
+      "message": "Forms Autofill-Taste"
+   },
+   "inbox": {
+      "description": "Inbox",
+      "message": "Posteingang"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "ungelesene nachrichten"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "Du hast neue Mail"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "Nein Danke"
+   },
+   "paste_tm_address": {
+      "description": "Paste Temp Mail address",
+      "message": "Temporäre E-Mail-Adresse einfügen"
+   },
+   "qr_code": {
+      "description": "QR code",
+      "message": "QR-Code"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Preis"
+   },
+   "rate_us_text": {
+      "description": "vote & sharing",
+      "message": "Wenn Sie unsere App lieben, nehmen Sie sich bitte einen Moment Zeit, um sie im Webshop zu bewerten."
+   },
+   "remove_from_exception_list": {
+      "description": "Remove from exception list",
+      "message": "Aus Ausnahmeliste entfernen"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Aktie"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Danke"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Warte bitte"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Ihre temporäre E-Mail-Adresse"
+   }
+}

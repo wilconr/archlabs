@@ -1,0 +1,6 @@
+2020/10/02-16:37:28.257 c49 Reusing MANIFEST /home/wilmer/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/10/02-16:37:28.332 c49 Recovering log #2042
+2020/10/02-16:37:28.491 c49 Reusing old log /home/wilmer/.config/google-chrome/Default/Local Storage/leveldb/002042.log 
+2020/10/02-16:40:47.367 1003 Level-0 table #2048: started
+2020/10/02-16:40:47.594 1003 Level-0 table #2048: 19123 bytes OK
+2020/10/02-16:40:47.658 1003 Delete type=0 #2042
